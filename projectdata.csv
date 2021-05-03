@@ -1,0 +1,1001 @@
+Class,Series,Variety,Form,ProductDescription,SKU,QuantityPurchased,CustomerID,CustomerName,TerritoryID,TerritoryName,SalesRepID,SalesRepNam,TerritoryManagerID,Territory Manager,InfoCost,ListPrice,SellPrice,ListMarginPercent,SellMarginPercent,SellMarginDollars
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,3351,670,Yute Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,30,15,0.833333333,0.666666667,335.1
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,188609,615,Kissinger Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,4,20,7,0.8,0.428571429,5658.27
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,124298,321,Open View Nursery,100,Northeast,5989,Marquis Ables,101,Tim Morris,4,20,7,0.8,0.428571429,3728.94
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,185093,350,Celtic Greenhouse,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,15,40,38,0.625,0.605263158,42571.39
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,111560,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,30,12,0.833333333,0.583333333,7809.2
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,1038,529,Numero Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,25,16,0.84,0.75,124.56
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,151000,762,Bridgeway Greenhouse,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,20,13,0.8,0.692307692,13590
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,56422,721,Bayheap Farm,600,Canada,9625,Marielle Plaisance,106,Jack Unger,5,25,22,0.8,0.772727273,9591.74
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,167097,234,Green Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,6,15,9,0.6,0.333333333,5012.91
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,157827,780,Greeno Greenhouse,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,4,25,19,0.84,0.789473684,23674.05
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,38075,321,Open View Nursery,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,25,21,0.84,0.80952381,6472.75
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,181221,657,Bob Smith Greenhouse,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,25,25,0.84,0.84,38056.41
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,64928,529,Numero Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,15,40,33,0.625,0.545454545,11687.04
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,47787,326,Makinaw Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,7,0.8,0.428571429,1433.61
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,60654,868,Old Quarry Farm,600,Canada,9305,Dewey Vause,106,Jack Unger,5,30,18,0.833333333,0.722222222,7885.02
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,25823,129,Hare Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,5,30,28,0.833333333,0.821428571,5939.29
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,117012,358,Rabbit Nursery,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,6,15,15,0.6,0.6,10531.08
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,39531,201,Bellview County Nursery,400,Northwest,4492,Bret Komar,104,Cathie Wentz,5,25,25,0.8,0.8,7906.2
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,89815,821,Pickwick Farm,100,Northeast,9717,Silva Gouge,101,Tim Morris,15,40,30,0.625,0.5,13472.25
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,191326,980,Pasture Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,14,0.885714286,0.714285714,19132.6
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,199235,606,ABC Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,15,40,17,0.625,0.117647059,3984.7
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,122968,350,Celtic Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,5,25,23,0.8,0.782608696,22134.24
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,182340,997,Bridge Nursery,100,Northeast,1581,Luz German,101,Tim Morris,5,15,14,0.666666667,0.642857143,16410.6
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,76329,585,Catte Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,32,8,0.84375,0.375,2289.87
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,26486,642,Sky Greenhouse,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,20,9,0.8,0.555555556,1324.3
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,149437,229,Horseridge Nursery,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,30,13,0.833333333,0.615384615,11954.96
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,36790,610,Lake Orey Greenhouse,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,5,30,23,0.833333333,0.782608696,6622.2
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,183895,290,Sampson Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,6,15,8,0.6,0.25,3677.9
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,74752,129,Hare Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,35,17,0.885714286,0.764705882,9717.76
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,192003,721,Bayheap Farm,600,Canada,9305,Dewey Vause,106,Jack Unger,5,25,15,0.8,0.666666667,19200.3
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,134216,604,Huntersville Farm,500,Southwest,2468,Iva Paolini,105,Bill Barkely,4,25,17,0.84,0.764705882,17448.08
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,8678,657,Bob Smith Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,35,26,0.885714286,0.846153846,1909.16
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,13555,321,Open View Nursery,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,6,15,14,0.6,0.571428571,1084.4
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,170825,739,University Village Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,20,6,0.8,0.333333333,3416.5
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,82556,290,Sampson Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,25,13,0.84,0.692307692,7430.04
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,3378,644,Greenbean Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,26,0.885714286,0.846153846,743.16
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,52806,380,Rackatoe Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,25,12,0.84,0.666666667,4224.48
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,183261,691,State Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,5,30,24,0.833333333,0.791666667,34819.59
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,158472,780,Greeno Greenhouse,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,4,20,13,0.8,0.692307692,14262.48
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,41643,610,Lake Orey Greenhouse,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,5,30,25,0.833333333,0.8,8328.6
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,129580,739,University Village Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,35,33,0.885714286,0.878787879,37578.2
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,69884,642,Sky Greenhouse,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,6,15,14,0.6,0.571428571,5590.72
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,147595,238,Force Farm,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,32,18,0.84375,0.722222222,19187.35
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,64643,326,Makinaw Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,35,0.885714286,0.885714286,20039.33
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,89827,894,Miller Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,18,0.84,0.777777778,12575.78
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,49410,290,Sampson Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,25,13,0.84,0.692307692,4446.9
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,111516,229,Horseridge Nursery,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,25,25,0.84,0.84,23418.36
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,27429,842,Overview Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,15,7,0.666666667,0.285714286,548.58
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,73355,606,ABC Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,20,19,0.8,0.789473684,11003.25
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,175309,529,Numero Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,5,30,15,0.833333333,0.666666667,17530.9
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,54125,178,Lackey Farm,100,Northeast,2586,Zada Dennis,101,Tim Morris,5,30,18,0.833333333,0.722222222,7036.25
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,23632,358,Rabbit Nursery,100,Northeast,2586,Zada Dennis,101,Tim Morris,4,25,18,0.84,0.777777778,3308.48
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,42760,868,Old Quarry Farm,600,Canada,3646,Marcie Aumann,106,Jack Unger,4,35,22,0.885714286,0.818181818,7696.8
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,1341,610,Lake Orey Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,6,15,15,0.6,0.6,120.69
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,5809,585,Catte Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,6,15,12,0.6,0.5,348.54
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,47636,585,Catte Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,25,20,0.84,0.8,7621.76
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,89347,606,ABC Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,30,26,0.833333333,0.807692308,18762.87
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,116348,894,Miller Farm,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,32,28,0.84375,0.821428571,26760.04
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,196090,129,Hare Nursery,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,6,15,11,0.6,0.454545455,9804.5
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,133453,232,Greenster Nursery,500,Southwest,7975,Kasey Angert,105,Bill Barkely,6,15,10,0.6,0.4,5338.12
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,179760,760,Moorse Nursery,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,15,40,24,0.625,0.375,16178.4
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,171135,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,25,23,0.84,0.826086957,32515.65
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,31411,670,Yute Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,35,11,0.885714286,0.636363636,2198.77
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,134408,281,Rhymbo Farm,600,Canada,6542,Caitlin Ricco,106,Jack Unger,4,25,18,0.84,0.777777778,18817.12
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,172891,238,Force Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,30,16,0.833333333,0.6875,19018.01
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,62575,692,Livingston Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,5,30,21,0.833333333,0.761904762,10012
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,146251,700,Jumbo Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,25,14,0.84,0.714285714,14625.1
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,49903,807,Green Canal Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,20,11,0.8,0.636363636,3493.21
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,92381,610,Lake Orey Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,15,40,37,0.625,0.594594595,20323.82
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,172966,321,Open View Nursery,100,Northeast,9717,Silva Gouge,101,Tim Morris,5,25,14,0.8,0.642857143,15566.94
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,150786,721,Bayheap Farm,600,Canada,9625,Marielle Plaisance,106,Jack Unger,6,15,11,0.6,0.454545455,7539.3
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,18697,760,Moorse Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,30,13,0.833333333,0.615384615,1495.76
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,193725,585,Catte Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,5,30,19,0.833333333,0.736842105,27121.5
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,50869,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,32,24,0.84375,0.791666667,9665.11
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,3277,232,Greenster Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,20,6,0.8,0.333333333,65.54
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,4166,965,Dickey Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,5,32,12,0.84375,0.583333333,291.62
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,40249,234,Green Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,35,19,0.885714286,0.789473684,6037.35
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,52003,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,14,0.8,0.714285714,5200.3
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,150465,707,Rancho Farm,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,25,18,0.84,0.777777778,21065.1
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,67246,811,Zanzabarr Nursery,500,Southwest,4827,Norbert Parise,105,Bill Barkely,4,20,19,0.8,0.789473684,10086.9
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,56068,760,Moorse Nursery,400,Northwest,4492,Bret Komar,104,Cathie Wentz,5,30,27,0.833333333,0.814814815,12334.96
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,145362,129,Hare Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,20,13,0.8,0.692307692,13082.58
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,113136,707,Rancho Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,20,7,0.8,0.428571429,3394.08
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,101205,358,Rabbit Nursery,100,Northeast,1581,Luz German,101,Tim Morris,4,25,20,0.84,0.8,16192.8
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,153409,807,Green Canal Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,14,0.84,0.714285714,15340.9
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,152599,238,Force Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,20,9,0.8,0.555555556,7629.95
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,175150,880,Green Story Farm,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,25,16,0.84,0.75,21018
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,119953,556,Diablo Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,15,40,23,0.625,0.347826087,9596.24
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,38555,842,Overview Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,35,22,0.885714286,0.818181818,6939.9
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,20265,931,Rick Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,6,15,10,0.6,0.4,810.6
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,155533,807,Green Canal Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,20,17,0.8,0.764705882,20219.29
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,156419,380,Rackatoe Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,25,11,0.84,0.636363636,10949.33
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,83048,880,Green Story Farm,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,30,19,0.833333333,0.736842105,11626.72
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,130143,955,Daily Dill Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,6,15,10,0.6,0.4,5205.72
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,24433,201,Bellview County Nursery,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,20,13,0.8,0.692307692,2198.97
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,144693,350,Celtic Greenhouse,100,Northeast,5989,Marquis Ables,101,Tim Morris,5,30,23,0.833333333,0.782608696,26044.74
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,100991,642,Sky Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,30,11,0.833333333,0.545454545,6059.46
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,171786,807,Green Canal Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,25,8,0.84,0.5,6871.44
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,33003,380,Rackatoe Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,5,30,25,0.833333333,0.8,6600.6
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,174163,721,Bayheap Farm,600,Canada,9305,Dewey Vause,106,Jack Unger,15,40,25,0.625,0.4,17416.3
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,142476,762,Bridgeway Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,30,27,0.833333333,0.814814815,31344.72
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,97488,780,Greeno Greenhouse,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,25,6,0.84,0.333333333,1949.76
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,88978,707,Rancho Farm,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,20,20,0.8,0.8,14236.48
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,85652,321,Open View Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,25,18,0.8,0.722222222,11134.76
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,11719,122,Bigtown Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,20,16,0.8,0.75,1406.28
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,28988,811,Zanzabarr Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,5,30,21,0.833333333,0.761904762,4638.08
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,39785,229,Horseridge Nursery,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,15,15,0.666666667,0.666666667,3978.5
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,15969,290,Sampson Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,15,13,0.666666667,0.615384615,1277.52
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,81400,178,Lackey Farm,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,20,18,0.8,0.777777778,11396
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,57906,821,Pickwick Farm,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,25,24,0.84,0.833333333,11581.2
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,156164,644,Greenbean Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,30,14,0.833333333,0.642857143,14054.76
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,115214,780,Greeno Greenhouse,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,4,20,8,0.8,0.5,4608.56
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,177130,321,Open View Nursery,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,20,10,0.8,0.6,10627.8
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,178474,980,Pasture Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,30,30,0.833333333,0.833333333,44618.5
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,153437,238,Force Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,20,8,0.8,0.5,6137.48
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,34908,821,Pickwick Farm,100,Northeast,2586,Zada Dennis,101,Tim Morris,4,25,24,0.84,0.833333333,6981.6
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,38111,780,Greeno Greenhouse,500,Southwest,1462,Roland Zapien,105,Bill Barkely,5,30,16,0.833333333,0.6875,4192.21
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,16339,326,Makinaw Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,20,12,0.8,0.666666667,1307.12
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,26139,615,Kissinger Greenhouse,100,Northeast,2586,Zada Dennis,101,Tim Morris,5,15,15,0.666666667,0.666666667,2613.9
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,4809,610,Lake Orey Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,20,6,0.8,0.333333333,96.18
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,37598,178,Lackey Farm,100,Northeast,2586,Zada Dennis,101,Tim Morris,15,40,22,0.625,0.318181818,2631.86
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,109641,739,University Village Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,5,25,20,0.8,0.75,16446.15
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,111591,965,Dickey Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,25,13,0.84,0.692307692,10043.19
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,197936,229,Horseridge Nursery,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,30,20,0.833333333,0.75,29690.4
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,24690,762,Bridgeway Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,6,15,12,0.6,0.5,1481.4
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,11121,556,Diablo Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,30,12,0.833333333,0.583333333,778.47
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,150134,997,Bridge Nursery,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,4,20,16,0.8,0.75,18016.08
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,81128,380,Rackatoe Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,5,25,11,0.8,0.545454545,4867.68
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,8817,321,Open View Nursery,100,Northeast,5479,Tania Dugan,101,Tim Morris,6,15,9,0.6,0.333333333,264.51
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,165939,931,Rick Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,6,0.84,0.333333333,3318.78
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,180703,610,Lake Orey Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,6,15,8,0.6,0.25,3614.06
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,19826,556,Diablo Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,30,11,0.833333333,0.545454545,1189.56
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,169659,529,Numero Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,35,19,0.885714286,0.789473684,25448.85
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,91854,644,Greenbean Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,25,22,0.84,0.818181818,16533.72
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,171647,739,University Village Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,6,15,9,0.6,0.333333333,5149.41
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,68458,326,Makinaw Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,25,13,0.84,0.692307692,6161.22
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,10500,644,Greenbean Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,25,14,0.84,0.714285714,1050
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,141820,610,Lake Orey Greenhouse,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,6,15,9,0.6,0.333333333,4254.6
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,6368,642,Sky Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,30,9,0.833333333,0.444444444,254.72
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,33146,780,Greeno Greenhouse,500,Southwest,7975,Kasey Angert,105,Bill Barkely,4,20,14,0.8,0.714285714,3314.6
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,111343,931,Rick Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,20,19,0.8,0.789473684,16701.45
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,167000,842,Overview Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,20,16,0.8,0.75,20040
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,12945,585,Catte Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,21,0.84,0.80952381,2200.65
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,97809,350,Celtic Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,25,7,0.84,0.428571429,2934.27
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,35427,821,Pickwick Farm,100,Northeast,5989,Marquis Ables,101,Tim Morris,4,35,14,0.885714286,0.714285714,3542.7
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,111538,780,Greeno Greenhouse,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,25,20,0.84,0.8,17846.08
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,145235,178,Lackey Farm,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,20,20,0.8,0.8,23237.6
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,119450,606,ABC Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,6,15,14,0.6,0.571428571,9556
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,92795,604,Huntersville Farm,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,5,25,13,0.8,0.615384615,7423.6
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,57227,292,Undertow Farm,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,5,30,11,0.833333333,0.545454545,3433.62
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,51195,232,Greenster Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,4,20,9,0.8,0.555555556,2559.75
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,17581,585,Catte Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,25,7,0.8,0.285714286,351.62
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,42162,129,Hare Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,25,23,0.84,0.826086957,8010.78
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,93661,760,Moorse Nursery,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,30,20,0.833333333,0.75,14049.15
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,137949,350,Celtic Greenhouse,100,Northeast,2586,Zada Dennis,101,Tim Morris,6,15,13,0.6,0.538461538,9656.43
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,156941,880,Green Story Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,13,0.84,0.692307692,14124.69
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,39804,955,Daily Dill Greenhouse,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,15,40,34,0.625,0.558823529,7562.76
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,182356,644,Greenbean Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,14,0.84,0.714285714,18235.6
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,14227,780,Greeno Greenhouse,500,Southwest,1462,Roland Zapien,105,Bill Barkely,5,30,7,0.833333333,0.285714286,284.54
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,125696,321,Open View Nursery,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,25,8,0.84,0.5,5027.84
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,106128,610,Lake Orey Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,25,7,0.84,0.428571429,3183.84
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,186671,821,Pickwick Farm,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,35,8,0.885714286,0.5,7466.84
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,79303,707,Rancho Farm,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,6,15,14,0.6,0.571428571,6344.24
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,170481,965,Dickey Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,25,22,0.84,0.818181818,30686.58
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,39343,811,Zanzabarr Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,4,25,23,0.84,0.826086957,7475.17
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,69758,326,Makinaw Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,32,12,0.84375,0.583333333,4883.06
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,77559,229,Horseridge Nursery,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,25,17,0.8,0.705882353,9307.08
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,116895,229,Horseridge Nursery,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,20,17,0.8,0.764705882,15196.35
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,165744,780,Greeno Greenhouse,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,5,25,8,0.8,0.375,4972.32
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,12545,931,Rick Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,6,15,14,0.6,0.571428571,1003.6
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,131692,321,Open View Nursery,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,30,22,0.833333333,0.772727273,22387.64
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,10784,232,Greenster Nursery,500,Southwest,1573,Julie Claar,105,Bill Barkely,5,15,11,0.666666667,0.545454545,647.04
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,196682,380,Rackatoe Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,20,7,0.8,0.428571429,5900.46
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,113767,868,Old Quarry Farm,600,Canada,6542,Caitlin Ricco,106,Jack Unger,4,20,11,0.8,0.636363636,7963.69
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,157984,997,Bridge Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,5,30,23,0.833333333,0.782608696,28437.12
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,49586,615,Kissinger Greenhouse,100,Northeast,2586,Zada Dennis,101,Tim Morris,6,15,12,0.6,0.5,2975.16
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,135213,604,Huntersville Farm,500,Southwest,2468,Iva Paolini,105,Bill Barkely,4,25,21,0.84,0.80952381,22986.21
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,176292,321,Open View Nursery,100,Northeast,2586,Zada Dennis,101,Tim Morris,4,25,10,0.84,0.6,10577.52
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,109781,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,15,0.8,0.733333333,12075.91
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,5533,380,Rackatoe Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,20,17,0.8,0.764705882,719.29
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,89156,707,Rancho Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,12,0.8,0.666666667,7132.48
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,158863,321,Open View Nursery,100,Northeast,2586,Zada Dennis,101,Tim Morris,5,25,12,0.8,0.583333333,11120.41
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,126091,281,Rhymbo Farm,600,Canada,2295,Hildegard Buzard,106,Jack Unger,6,15,13,0.6,0.538461538,8826.37
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,93720,657,Bob Smith Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,25,21,0.84,0.80952381,15932.4
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,35482,760,Moorse Nursery,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,25,25,0.84,0.84,7451.22
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,99919,178,Lackey Farm,100,Northeast,5989,Marquis Ables,101,Tim Morris,4,35,26,0.885714286,0.846153846,21982.18
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,7235,585,Catte Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,25,6,0.84,0.333333333,144.7
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,24801,201,Bellview County Nursery,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,25,19,0.84,0.789473684,3720.15
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,140147,234,Green Farm,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,25,10,0.84,0.6,8408.82
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,165158,604,Huntersville Farm,500,Southwest,1462,Roland Zapien,105,Bill Barkely,5,25,15,0.8,0.666666667,16515.8
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,30046,894,Miller Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,20,16,0.8,0.75,3605.52
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,41444,610,Lake Orey Greenhouse,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,5,30,27,0.833333333,0.814814815,9117.68
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,68006,610,Lake Orey Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,20,13,0.8,0.692307692,6120.54
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,176648,321,Open View Nursery,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,20,12,0.8,0.666666667,14131.84
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,118905,234,Green Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,20,6,0.8,0.333333333,2378.1
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,191042,880,Green Story Farm,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,35,24,0.885714286,0.833333333,38208.4
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,17540,965,Dickey Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,5,25,8,0.8,0.375,526.2
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,13818,644,Greenbean Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,20,7,0.8,0.428571429,414.54
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,159129,610,Lake Orey Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,5,30,30,0.833333333,0.833333333,39782.25
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,1433,292,Undertow Farm,500,Southwest,7975,Kasey Angert,105,Bill Barkely,5,25,16,0.8,0.6875,157.63
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,36477,238,Force Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,29,0.885714286,0.862068966,9119.25
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,64688,780,Greeno Greenhouse,500,Southwest,4827,Norbert Parise,105,Bill Barkely,4,25,18,0.84,0.777777778,9056.32
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,100933,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,6,15,14,0.6,0.571428571,8074.64
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,150907,807,Green Canal Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,25,6,0.84,0.333333333,3018.14
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,73018,281,Rhymbo Farm,600,Canada,6542,Caitlin Ricco,106,Jack Unger,4,25,20,0.84,0.8,11682.88
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,171628,358,Rabbit Nursery,100,Northeast,5951,Abel Gillmore,101,Tim Morris,6,15,14,0.6,0.571428571,13730.24
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,15987,965,Dickey Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,35,13,0.885714286,0.692307692,1438.83
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,137195,642,Sky Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,35,22,0.885714286,0.818181818,24695.1
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,84686,700,Jumbo Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,6,15,14,0.6,0.571428571,6774.88
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,119483,692,Livingston Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,30,10,0.833333333,0.5,5974.15
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,22605,700,Jumbo Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,20,20,0.8,0.8,3616.8
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,3359,350,Celtic Greenhouse,100,Northeast,2586,Zada Dennis,101,Tim Morris,5,30,21,0.833333333,0.761904762,537.44
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,181515,642,Sky Greenhouse,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,25,9,0.84,0.555555556,9075.75
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,181643,321,Open View Nursery,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,35,28,0.885714286,0.857142857,43594.32
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,95670,232,Greenster Nursery,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,4,25,22,0.84,0.818181818,17220.6
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,52000,739,University Village Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,7,0.84,0.428571429,1560
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,183729,201,Bellview County Nursery,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,25,23,0.84,0.826086957,34908.51
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,118670,955,Daily Dill Greenhouse,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,25,10,0.84,0.6,7120.2
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,97181,615,Kissinger Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,4,25,22,0.84,0.818181818,17492.58
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,108406,232,Greenster Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,5,25,15,0.8,0.666666667,10840.6
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,141669,292,Undertow Farm,500,Southwest,7975,Kasey Angert,105,Bill Barkely,5,30,25,0.833333333,0.8,28333.8
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,118720,691,State Nursery,500,Southwest,1573,Julie Claar,105,Bill Barkely,4,20,14,0.8,0.714285714,11872
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,44094,762,Bridgeway Greenhouse,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,20,18,0.8,0.777777778,6173.16
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,105608,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,6,15,11,0.6,0.454545455,5280.4
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,47223,955,Daily Dill Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,25,14,0.84,0.714285714,4722.3
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,27648,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,6,15,14,0.6,0.571428571,2211.84
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,104569,670,Yute Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,20,12,0.8,0.666666667,8365.52
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,99636,931,Rick Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,25,25,0.8,0.8,19927.2
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,37348,642,Sky Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,6,15,11,0.6,0.454545455,1867.4
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,35376,201,Bellview County Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,32,14,0.84375,0.642857143,3183.84
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,39211,122,Bigtown Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,25,20,0.8,0.75,5881.65
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,112462,610,Lake Orey Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,25,7,0.8,0.285714286,2249.24
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,21285,642,Sky Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,10,0.8,0.6,1277.1
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,10112,692,Livingston Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,5,15,9,0.666666667,0.444444444,404.48
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,190980,556,Diablo Farm,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,13,0.8,0.692307692,17188.2
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,173521,670,Yute Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,25,13,0.84,0.692307692,15616.89
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,131043,615,Kissinger Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,25,16,0.84,0.75,15725.16
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,121023,931,Rick Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,11,0.84,0.636363636,8471.61
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,42529,931,Rick Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,30,16,0.833333333,0.6875,4678.19
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,91189,670,Yute Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,15,10,0.666666667,0.5,4559.45
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,72923,657,Bob Smith Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,32,13,0.84375,0.615384615,5833.84
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,42208,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,16,0.8,0.75,5064.96
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,91450,178,Lackey Farm,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,20,6,0.8,0.333333333,1829
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,161762,707,Rancho Farm,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,30,29,0.833333333,0.827586207,38822.88
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,188194,642,Sky Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,20,8,0.8,0.5,7527.76
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,178380,380,Rackatoe Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,25,19,0.84,0.789473684,26757
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,142390,122,Bigtown Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,25,20,0.8,0.75,21358.5
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,132127,644,Greenbean Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,20,10,0.8,0.6,7927.62
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,112244,232,Greenster Nursery,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,6,15,8,0.6,0.25,2244.88
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,86117,760,Moorse Nursery,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,25,6,0.84,0.333333333,1722.34
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,154820,321,Open View Nursery,100,Northeast,5989,Marquis Ables,101,Tim Morris,4,25,15,0.84,0.733333333,17030.2
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,27804,980,Pasture Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,20,8,0.8,0.5,1112.16
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,99446,350,Celtic Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,25,6,0.84,0.333333333,1988.92
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,62449,644,Greenbean Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,20,15,0.8,0.733333333,6869.39
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,141297,615,Kissinger Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,20,10,0.8,0.6,8477.82
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,102252,842,Overview Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,8,0.84,0.5,4090.08
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,165322,692,Livingston Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,20,17,0.8,0.764705882,21491.86
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,109807,700,Jumbo Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,16,0.84,0.75,13176.84
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,38540,821,Pickwick Farm,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,30,7,0.833333333,0.285714286,770.8
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,53158,350,Celtic Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,25,9,0.84,0.555555556,2657.9
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,27954,762,Bridgeway Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,25,17,0.84,0.764705882,3634.02
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,171990,707,Rancho Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,6,15,9,0.6,0.333333333,5159.7
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,96125,229,Horseridge Nursery,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,5,15,15,0.666666667,0.666666667,9612.5
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,189478,707,Rancho Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,20,15,0.8,0.733333333,20842.58
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,75393,610,Lake Orey Greenhouse,100,Northeast,9717,Silva Gouge,101,Tim Morris,5,15,13,0.666666667,0.615384615,6031.44
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,157139,292,Undertow Farm,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,25,7,0.84,0.428571429,4714.17
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,167826,201,Bellview County Nursery,400,Northwest,9565,Iola Guss,104,Cathie Wentz,5,30,18,0.833333333,0.722222222,21817.38
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,17020,691,State Nursery,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,5,25,17,0.8,0.705882353,2042.4
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,28319,610,Lake Orey Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,30,18,0.833333333,0.722222222,3681.47
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,95283,670,Yute Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,20,7,0.8,0.428571429,2858.49
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,63020,644,Greenbean Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,25,0.885714286,0.84,13234.2
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,157755,955,Daily Dill Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,30,19,0.833333333,0.736842105,22085.7
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,94328,229,Horseridge Nursery,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,6,15,14,0.6,0.571428571,7546.24
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,139978,350,Celtic Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,20,19,0.8,0.789473684,20996.7
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,152273,234,Green Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,22,0.885714286,0.818181818,27409.14
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,34383,980,Pasture Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,5,30,12,0.833333333,0.583333333,2406.81
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,917,229,Horseridge Nursery,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,25,22,0.8,0.772727273,155.89
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,18028,178,Lackey Farm,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,25,6,0.84,0.333333333,360.56
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,123306,529,Numero Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,20,10,0.8,0.6,7398.36
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,105253,604,Huntersville Farm,500,Southwest,4827,Norbert Parise,105,Bill Barkely,4,20,17,0.8,0.764705882,13682.89
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,99255,201,Bellview County Nursery,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,30,17,0.833333333,0.705882353,11910.6
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,72661,657,Bob Smith Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,25,10,0.84,0.6,4359.66
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,97455,657,Bob Smith Greenhouse,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,25,17,0.84,0.764705882,12669.15
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,27842,234,Green Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,15,40,30,0.625,0.5,4176.3
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,50700,842,Overview Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,6,15,12,0.6,0.5,3042
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,112452,350,Celtic Greenhouse,100,Northeast,2586,Zada Dennis,101,Tim Morris,4,20,11,0.8,0.636363636,7871.64
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,78273,965,Dickey Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,5,32,24,0.84375,0.791666667,14871.87
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,12669,821,Pickwick Farm,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,25,12,0.84,0.666666667,1013.52
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,168855,604,Huntersville Farm,500,Southwest,2468,Iva Paolini,105,Bill Barkely,4,25,11,0.84,0.636363636,11819.85
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,139545,762,Bridgeway Greenhouse,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,24,0.885714286,0.833333333,27909
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,44797,234,Green Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,15,13,0.666666667,0.615384615,3583.76
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,180348,807,Green Canal Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,20,10,0.8,0.6,10820.88
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,48948,780,Greeno Greenhouse,500,Southwest,7975,Kasey Angert,105,Bill Barkely,4,20,14,0.8,0.714285714,4894.8
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,95138,700,Jumbo Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,5,30,24,0.833333333,0.791666667,18076.22
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,42020,122,Bigtown Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,20,8,0.8,0.5,1680.8
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,194596,707,Rancho Farm,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,25,23,0.84,0.826086957,36973.24
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,199563,234,Green Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,6,15,10,0.6,0.4,7982.52
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,47414,842,Overview Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,25,22,0.84,0.818181818,8534.52
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,49594,700,Jumbo Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,25,15,0.8,0.666666667,4959.4
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,21225,238,Force Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,20,8,0.8,0.5,849
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,105260,642,Sky Greenhouse,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,5,32,16,0.84375,0.6875,11578.6
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,5629,321,Open View Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,6,15,8,0.6,0.25,112.58
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,173190,807,Green Canal Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,35,11,0.885714286,0.636363636,12123.3
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,137941,692,Livingston Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,6,15,10,0.6,0.4,5517.64
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,170998,707,Rancho Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,15,12,0.666666667,0.583333333,11969.86
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,119006,229,Horseridge Nursery,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,16,0.8,0.75,14280.72
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,81511,129,Hare Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,4,20,16,0.8,0.75,9781.32
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,104377,691,State Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,20,8,0.8,0.5,4175.08
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,114946,931,Rick Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,25,20,0.84,0.8,18391.36
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,13935,292,Undertow Farm,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,5,30,17,0.833333333,0.705882353,1672.2
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,102301,894,Miller Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,6,15,10,0.6,0.4,4092.04
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,32529,326,Makinaw Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,20,7,0.8,0.428571429,975.87
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,146575,821,Pickwick Farm,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,6,15,13,0.6,0.538461538,10260.25
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,30233,894,Miller Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,20,15,0.8,0.733333333,3325.63
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,106028,762,Bridgeway Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,32,19,0.84375,0.736842105,14843.92
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,151444,585,Catte Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,6,15,11,0.6,0.454545455,7572.2
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,90929,762,Bridgeway Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,35,35,0.885714286,0.885714286,28187.99
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,127379,780,Greeno Greenhouse,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,35,32,0.885714286,0.875,35666.12
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,114226,965,Dickey Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,5,25,17,0.8,0.705882353,13707.12
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,170967,739,University Village Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,25,20,0.84,0.8,27354.72
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,2497,350,Celtic Greenhouse,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,5,25,7,0.8,0.285714286,49.94
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,80174,281,Rhymbo Farm,600,Canada,3646,Marcie Aumann,106,Jack Unger,5,15,15,0.666666667,0.666666667,8017.4
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,127737,292,Undertow Farm,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,5,25,12,0.8,0.583333333,8941.59
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,77996,556,Diablo Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,6,15,14,0.6,0.571428571,6239.68
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,9269,955,Daily Dill Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,25,17,0.8,0.705882353,1112.28
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,165160,780,Greeno Greenhouse,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,4,25,16,0.84,0.75,19819.2
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,153421,358,Rabbit Nursery,100,Northeast,5989,Marquis Ables,101,Tim Morris,5,15,12,0.666666667,0.583333333,10739.47
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,152781,232,Greenster Nursery,500,Southwest,2468,Iva Paolini,105,Bill Barkely,4,25,14,0.84,0.714285714,15278.1
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,167792,529,Numero Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,20,6,0.8,0.333333333,3355.84
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,137762,965,Dickey Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,30,23,0.833333333,0.782608696,24797.16
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,173020,691,State Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,20,9,0.8,0.555555556,8651
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,152196,842,Overview Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,32,28,0.84375,0.821428571,35005.08
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,42068,585,Catte Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,30,18,0.833333333,0.722222222,5468.84
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,40274,129,Hare Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,6,15,13,0.6,0.538461538,2819.18
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,133757,868,Old Quarry Farm,600,Canada,1132,Asley Huges,106,Jack Unger,5,30,20,0.833333333,0.75,20063.55
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,63179,606,ABC Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,20,0.84,0.8,10108.64
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,187573,868,Old Quarry Farm,600,Canada,1132,Asley Huges,106,Jack Unger,4,35,9,0.885714286,0.555555556,9378.65
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,173987,692,Livingston Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,6,15,15,0.6,0.6,15658.83
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,93003,238,Force Farm,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,6,15,14,0.6,0.571428571,7440.24
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,85424,290,Sampson Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,17,0.8,0.764705882,11105.12
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,127178,965,Dickey Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,5,25,10,0.8,0.5,6358.9
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,32899,610,Lake Orey Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,5,25,8,0.8,0.375,986.97
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,78557,644,Greenbean Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,20,18,0.8,0.777777778,10997.98
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,148495,670,Yute Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,25,7,0.84,0.428571429,4454.85
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,34366,807,Green Canal Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,20,16,0.8,0.75,4123.92
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,5481,842,Overview Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,11,0.8,0.636363636,383.67
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,16270,281,Rhymbo Farm,600,Canada,3646,Marcie Aumann,106,Jack Unger,15,40,29,0.625,0.482758621,2277.8
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,167488,122,Bigtown Greenhouse,100,Northeast,5989,Marquis Ables,101,Tim Morris,15,40,22,0.625,0.318181818,11724.16
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,18616,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,16,0.8,0.75,2233.92
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,8268,780,Greeno Greenhouse,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,5,25,9,0.8,0.444444444,330.72
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,56694,556,Diablo Farm,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,6,15,9,0.6,0.333333333,1700.82
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,6862,707,Rancho Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,25,15,0.84,0.733333333,754.82
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,94068,178,Lackey Farm,100,Northeast,9717,Silva Gouge,101,Tim Morris,5,15,9,0.666666667,0.444444444,3762.72
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,88975,610,Lake Orey Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,15,10,0.666666667,0.5,4448.75
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,174861,657,Bob Smith Greenhouse,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,5,25,19,0.8,0.736842105,24480.54
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,18147,807,Green Canal Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,16,0.8,0.75,2177.64
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,146170,880,Green Story Farm,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,20,16,0.8,0.75,17540.4
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,193029,606,ABC Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,17,0.8,0.764705882,25093.77
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,18150,380,Rackatoe Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,30,21,0.833333333,0.761904762,2904
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,109521,721,Bayheap Farm,600,Canada,8731,Magdalen Murphy,106,Jack Unger,4,25,24,0.84,0.833333333,21904.2
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,84873,721,Bayheap Farm,600,Canada,3646,Marcie Aumann,106,Jack Unger,4,25,21,0.84,0.80952381,14428.41
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,195581,868,Old Quarry Farm,600,Canada,6542,Caitlin Ricco,106,Jack Unger,4,25,7,0.84,0.428571429,5867.43
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,162613,585,Catte Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,25,18,0.84,0.777777778,22765.82
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,24012,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,25,19,0.8,0.736842105,3361.68
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,168904,691,State Nursery,500,Southwest,2468,Iva Paolini,105,Bill Barkely,4,25,12,0.84,0.666666667,13512.32
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,188575,201,Bellview County Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,25,9,0.84,0.555555556,9428.75
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,117784,326,Makinaw Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,30,10,0.833333333,0.5,5889.2
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,163192,615,Kissinger Greenhouse,100,Northeast,9717,Silva Gouge,101,Tim Morris,5,15,7,0.666666667,0.285714286,3263.84
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,108359,931,Rick Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,6,15,8,0.6,0.25,2167.18
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,44481,691,State Nursery,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,6,15,15,0.6,0.6,4003.29
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,90952,691,State Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,20,14,0.8,0.714285714,9095.2
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,138106,762,Bridgeway Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,7,0.84,0.428571429,4143.18
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,93654,644,Greenbean Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,35,23,0.885714286,0.826086957,17794.26
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,32743,707,Rancho Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,10,0.8,0.6,1964.58
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,101446,122,Bigtown Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,5,25,25,0.8,0.8,20289.2
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,22796,980,Pasture Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,6,15,9,0.6,0.333333333,683.88
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,89233,997,Bridge Nursery,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,15,9,0.666666667,0.444444444,3569.32
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,191139,604,Huntersville Farm,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,15,40,31,0.625,0.516129032,30582.24
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,180715,842,Overview Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,10,0.8,0.6,10842.9
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,50237,692,Livingston Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,20,13,0.8,0.692307692,4521.33
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,110017,610,Lake Orey Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,20,18,0.8,0.777777778,15402.38
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,130014,232,Greenster Nursery,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,4,25,12,0.84,0.666666667,10401.12
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,35650,691,State Nursery,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,4,20,12,0.8,0.666666667,2852
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,132551,657,Bob Smith Greenhouse,100,Northeast,5989,Marquis Ables,101,Tim Morris,4,25,12,0.84,0.666666667,10604.08
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,88832,739,University Village Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,25,21,0.8,0.761904762,14213.12
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,119497,238,Force Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,6,0.84,0.333333333,2389.94
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,36052,811,Zanzabarr Nursery,500,Southwest,4827,Norbert Parise,105,Bill Barkely,4,25,15,0.84,0.733333333,3965.72
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,97907,201,Bellview County Nursery,400,Northwest,9565,Iola Guss,104,Cathie Wentz,6,15,15,0.6,0.6,8811.63
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,18103,321,Open View Nursery,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,35,13,0.885714286,0.692307692,1629.27
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,137299,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,19,0.8,0.789473684,20594.85
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,95049,691,State Nursery,500,Southwest,1462,Roland Zapien,105,Bill Barkely,4,20,14,0.8,0.714285714,9504.9
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,59285,292,Undertow Farm,500,Southwest,4827,Norbert Parise,105,Bill Barkely,5,30,27,0.833333333,0.814814815,13042.7
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,48297,868,Old Quarry Farm,600,Canada,3617,Lori Latham,106,Jack Unger,6,15,13,0.6,0.538461538,3380.79
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,97152,880,Green Story Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,15,10,0.666666667,0.5,4857.6
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,178782,238,Force Farm,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,20,6,0.8,0.333333333,3575.64
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,26762,931,Rick Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,6,15,8,0.6,0.25,535.24
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,17699,178,Lackey Farm,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,25,6,0.84,0.333333333,353.98
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,193109,980,Pasture Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,35,26,0.885714286,0.846153846,42483.98
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,45337,350,Celtic Greenhouse,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,25,9,0.84,0.555555556,2266.85
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,127719,290,Sampson Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,6,15,11,0.6,0.454545455,6385.95
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,158023,321,Open View Nursery,100,Northeast,1581,Luz German,101,Tim Morris,6,15,9,0.6,0.333333333,4740.69
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,100040,321,Open View Nursery,100,Northeast,5989,Marquis Ables,101,Tim Morris,6,15,10,0.6,0.4,4001.6
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,66962,700,Jumbo Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,25,25,0.8,0.8,13392.4
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,112775,894,Miller Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,20,7,0.8,0.428571429,3383.25
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,42068,178,Lackey Farm,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,25,9,0.84,0.555555556,2103.4
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,191530,997,Bridge Nursery,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,30,17,0.833333333,0.705882353,22983.6
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,109636,762,Bridgeway Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,30,28,0.833333333,0.821428571,25216.28
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,27485,821,Pickwick Farm,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,4,35,27,0.885714286,0.851851852,6321.55
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,110047,321,Open View Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,25,8,0.84,0.5,4401.88
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,80844,707,Rancho Farm,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,25,22,0.84,0.818181818,14551.92
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,182273,880,Green Story Farm,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,25,19,0.8,0.736842105,25518.22
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,56173,692,Livingston Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,5,30,19,0.833333333,0.736842105,7864.22
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,159641,644,Greenbean Farm,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,19,0.8,0.789473684,23946.15
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,127832,811,Zanzabarr Nursery,500,Southwest,4827,Norbert Parise,105,Bill Barkely,4,25,25,0.84,0.84,26844.72
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,47006,610,Lake Orey Greenhouse,100,Northeast,9717,Silva Gouge,101,Tim Morris,5,30,26,0.833333333,0.807692308,9871.26
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,42110,350,Celtic Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,20,13,0.8,0.692307692,3789.9
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,60535,721,Bayheap Farm,600,Canada,1132,Asley Huges,106,Jack Unger,4,25,15,0.84,0.733333333,6658.85
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,77299,380,Rackatoe Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,20,15,0.8,0.733333333,8502.89
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,28635,229,Horseridge Nursery,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,6,15,10,0.6,0.4,1145.4
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,29100,178,Lackey Farm,100,Northeast,2586,Zada Dennis,101,Tim Morris,6,15,10,0.6,0.4,1164
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,62305,670,Yute Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,25,13,0.84,0.692307692,5607.45
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,78163,894,Miller Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,25,14,0.84,0.714285714,7816.3
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,60874,585,Catte Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,25,11,0.84,0.636363636,4261.18
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,33832,880,Green Story Farm,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,25,24,0.84,0.833333333,6766.4
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,117954,707,Rancho Farm,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,6,0.8,0.333333333,2359.08
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,96943,807,Green Canal Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,20,18,0.8,0.777777778,13572.02
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,80825,821,Pickwick Farm,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,25,23,0.84,0.826086957,15356.75
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,69793,707,Rancho Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,12,0.8,0.666666667,5583.44
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,85238,606,ABC Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,20,8,0.8,0.5,3409.52
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,82749,234,Green Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,20,6,0.8,0.333333333,1654.98
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,82103,691,State Nursery,500,Southwest,1462,Roland Zapien,105,Bill Barkely,6,15,9,0.6,0.333333333,2463.09
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,92144,692,Livingston Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,20,16,0.8,0.75,11057.28
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,124867,229,Horseridge Nursery,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,20,6,0.8,0.333333333,2497.34
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,195015,670,Yute Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,30,9,0.833333333,0.444444444,7800.6
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,9939,201,Bellview County Nursery,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,20,20,0.8,0.8,1590.24
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,128473,281,Rhymbo Farm,600,Canada,6542,Caitlin Ricco,106,Jack Unger,4,20,9,0.8,0.555555556,6423.65
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,27422,691,State Nursery,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,4,20,17,0.8,0.764705882,3564.86
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,135898,965,Dickey Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,25,11,0.84,0.636363636,9512.86
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,121244,880,Green Story Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,6,15,12,0.6,0.5,7274.64
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,58207,739,University Village Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,20,16,0.8,0.75,6984.84
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,22918,692,Livingston Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,15,40,39,0.625,0.615384615,5500.32
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,176408,894,Miller Farm,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,5,15,14,0.666666667,0.642857143,15876.72
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,70849,691,State Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,5,30,16,0.833333333,0.6875,7793.39
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,172091,780,Greeno Greenhouse,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,5,30,16,0.833333333,0.6875,18930.01
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,69928,321,Open View Nursery,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,30,15,0.833333333,0.666666667,6992.8
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,3486,642,Sky Greenhouse,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,15,40,33,0.625,0.545454545,627.48
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,14158,780,Greeno Greenhouse,500,Southwest,7975,Kasey Angert,105,Bill Barkely,6,15,15,0.6,0.6,1274.22
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,54799,644,Greenbean Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,9,0.84,0.555555556,2739.95
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,23865,868,Old Quarry Farm,600,Canada,3617,Lori Latham,106,Jack Unger,6,15,12,0.6,0.5,1431.9
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,61055,965,Dickey Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,25,15,0.84,0.733333333,6716.05
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,72951,238,Force Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,17,0.885714286,0.764705882,9483.63
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,139628,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,6,15,13,0.6,0.538461538,9773.96
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,17219,691,State Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,5,15,8,0.666666667,0.375,516.57
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,150195,691,State Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,5,30,16,0.833333333,0.6875,16521.45
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,166670,997,Bridge Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,25,17,0.84,0.764705882,21667.1
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,22747,739,University Village Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,25,11,0.84,0.636363636,1592.29
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,88692,868,Old Quarry Farm,600,Canada,6542,Caitlin Ricco,106,Jack Unger,4,25,18,0.84,0.777777778,12416.88
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,134879,234,Green Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,15,40,29,0.625,0.482758621,18883.06
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,21720,606,ABC Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,5,25,18,0.8,0.722222222,2823.6
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,160661,292,Undertow Farm,500,Southwest,2468,Iva Paolini,105,Bill Barkely,5,15,14,0.666666667,0.642857143,14459.49
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,118467,821,Pickwick Farm,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,20,10,0.8,0.6,7108.02
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,50862,739,University Village Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,25,10,0.84,0.6,3051.72
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,127077,955,Daily Dill Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,30,13,0.833333333,0.615384615,10166.16
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,175800,657,Bob Smith Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,20,7,0.8,0.428571429,5274
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,89239,965,Dickey Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,20,7,0.8,0.428571429,2677.17
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,107502,721,Bayheap Farm,600,Canada,9305,Dewey Vause,106,Jack Unger,5,15,8,0.666666667,0.375,3225.06
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,174342,326,Makinaw Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,20,12,0.8,0.666666667,13947.36
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,5763,380,Rackatoe Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,5,25,21,0.8,0.761904762,922.08
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,112869,529,Numero Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,20,6,0.8,0.333333333,2257.38
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,84400,326,Makinaw Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,23,0.84,0.826086957,16036
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,41777,955,Daily Dill Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,15,0.8,0.733333333,4595.47
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,15066,880,Green Story Farm,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,25,15,0.84,0.733333333,1657.26
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,177477,350,Celtic Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,20,19,0.8,0.789473684,26621.55
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,129482,606,ABC Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,30,22,0.833333333,0.772727273,22011.94
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,98971,556,Diablo Farm,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,35,17,0.885714286,0.764705882,12866.23
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,146609,692,Livingston Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,15,40,29,0.625,0.482758621,20525.26
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,105324,380,Rackatoe Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,25,17,0.84,0.764705882,13692.12
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,131397,997,Bridge Nursery,100,Northeast,2586,Zada Dennis,101,Tim Morris,6,15,14,0.6,0.571428571,10511.76
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,55647,585,Catte Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,15,10,0.666666667,0.5,2782.35
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,179819,868,Old Quarry Farm,600,Canada,3617,Lori Latham,106,Jack Unger,4,25,20,0.84,0.8,28771.04
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,13825,229,Horseridge Nursery,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,25,13,0.8,0.615384615,1106
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,116614,606,ABC Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,25,0.84,0.84,24488.94
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,21866,965,Dickey Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,20,19,0.8,0.789473684,3279.9
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,194455,610,Lake Orey Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,15,40,29,0.625,0.482758621,27223.7
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,16388,321,Open View Nursery,100,Northeast,9717,Silva Gouge,101,Tim Morris,6,15,8,0.6,0.25,327.76
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,72941,321,Open View Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,6,15,8,0.6,0.25,1458.82
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,127689,238,Force Farm,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,25,21,0.84,0.80952381,21707.13
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,114506,811,Zanzabarr Nursery,500,Southwest,4827,Norbert Parise,105,Bill Barkely,4,20,11,0.8,0.636363636,8015.42
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,61608,965,Dickey Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,25,19,0.84,0.789473684,9241.2
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,24426,129,Hare Nursery,500,Southwest,7975,Kasey Angert,105,Bill Barkely,5,30,24,0.833333333,0.791666667,4640.94
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,44669,965,Dickey Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,30,22,0.833333333,0.772727273,7593.73
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,25933,321,Open View Nursery,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,25,10,0.84,0.6,1555.98
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,21908,692,Livingston Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,20,11,0.8,0.636363636,1533.56
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,46977,606,ABC Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,5,30,23,0.833333333,0.782608696,8455.86
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,157833,842,Overview Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,20,20,0.8,0.8,25253.28
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,125447,380,Rackatoe Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,25,12,0.8,0.583333333,8781.29
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,178879,350,Celtic Greenhouse,100,Northeast,5989,Marquis Ables,101,Tim Morris,4,20,14,0.8,0.714285714,17887.9
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,56079,129,Hare Nursery,500,Southwest,2468,Iva Paolini,105,Bill Barkely,4,20,14,0.8,0.714285714,5607.9
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,39032,229,Horseridge Nursery,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,5,30,13,0.833333333,0.615384615,3122.56
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,131215,670,Yute Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,5,15,7,0.666666667,0.285714286,2624.3
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,62324,842,Overview Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,20,17,0.8,0.764705882,8102.12
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,137009,811,Zanzabarr Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,20,18,0.8,0.777777778,19181.26
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,171647,980,Pasture Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,20,14,0.8,0.714285714,17164.7
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,3578,234,Green Farm,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,20,0.8,0.8,572.48
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,63301,358,Rabbit Nursery,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,5,25,23,0.8,0.782608696,11394.18
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,28457,657,Bob Smith Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,5,32,13,0.84375,0.615384615,2276.56
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,116090,585,Catte Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,23,0.84,0.826086957,22057.1
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,12559,321,Open View Nursery,100,Northeast,9717,Silva Gouge,101,Tim Morris,5,15,15,0.666666667,0.666666667,1255.9
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,41647,615,Kissinger Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,25,25,0.84,0.84,8745.87
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,147237,811,Zanzabarr Nursery,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,5,30,10,0.833333333,0.5,7361.85
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,183914,358,Rabbit Nursery,100,Northeast,2586,Zada Dennis,101,Tim Morris,4,35,12,0.885714286,0.666666667,14713.12
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,137366,807,Green Canal Greenhouse,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,25,22,0.84,0.818181818,24725.88
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,134955,234,Green Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,20,18,0.8,0.777777778,18893.7
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,40487,700,Jumbo Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,25,24,0.84,0.833333333,8097.4
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,1603,292,Undertow Farm,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,4,25,18,0.84,0.777777778,224.42
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,141658,321,Open View Nursery,100,Northeast,1581,Luz German,101,Tim Morris,4,25,11,0.84,0.636363636,9916.06
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,97198,868,Old Quarry Farm,600,Canada,9625,Marielle Plaisance,106,Jack Unger,4,25,7,0.84,0.428571429,2915.94
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,196419,585,Catte Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,25,17,0.84,0.764705882,25534.47
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,55206,234,Green Farm,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,7,0.8,0.428571429,1656.18
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,72574,232,Greenster Nursery,500,Southwest,2468,Iva Paolini,105,Bill Barkely,4,20,8,0.8,0.5,2902.96
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,79809,739,University Village Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,30,28,0.833333333,0.821428571,18356.07
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,82606,980,Pasture Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,14,0.8,0.714285714,8260.6
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,82239,281,Rhymbo Farm,600,Canada,1132,Asley Huges,106,Jack Unger,4,20,9,0.8,0.555555556,4111.95
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,7924,821,Pickwick Farm,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,25,12,0.8,0.583333333,554.68
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,132749,955,Daily Dill Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,15,12,0.666666667,0.583333333,9292.43
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,193997,234,Green Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,13,0.885714286,0.692307692,17459.73
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,193216,670,Yute Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,15,40,37,0.625,0.594594595,42507.52
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,64639,691,State Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,25,12,0.84,0.666666667,5171.12
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,78972,234,Green Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,35,31,0.885714286,0.870967742,21322.44
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,11931,931,Rick Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,6,15,12,0.6,0.5,715.86
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,121061,604,Huntersville Farm,500,Southwest,4827,Norbert Parise,105,Bill Barkely,4,25,21,0.84,0.80952381,20580.37
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,57739,610,Lake Orey Greenhouse,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,6,15,11,0.6,0.454545455,2886.95
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,38763,670,Yute Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,25,21,0.84,0.80952381,6589.71
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,15823,122,Bigtown Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,15,40,36,0.625,0.583333333,3322.83
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,31495,326,Makinaw Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,20,13,0.8,0.692307692,2834.55
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,52814,894,Miller Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,8,0.84,0.5,2112.56
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,128280,281,Rhymbo Farm,600,Canada,9305,Dewey Vause,106,Jack Unger,4,20,19,0.8,0.789473684,19242
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,99636,657,Bob Smith Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,25,6,0.84,0.333333333,1992.72
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,64910,692,Livingston Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,5,30,24,0.833333333,0.791666667,12332.9
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,126101,997,Bridge Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,25,25,0.84,0.84,26481.21
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,28677,129,Hare Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,4,35,7,0.885714286,0.428571429,860.31
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,150997,350,Celtic Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,20,16,0.8,0.75,18119.64
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,130393,321,Open View Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,30,13,0.833333333,0.615384615,10431.44
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,52077,691,State Nursery,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,6,15,13,0.6,0.538461538,3645.39
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,137921,721,Bayheap Farm,600,Canada,3617,Lori Latham,106,Jack Unger,4,25,13,0.84,0.692307692,12412.89
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,40891,739,University Village Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,20,13,0.8,0.692307692,3680.19
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,11216,201,Bellview County Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,6,15,8,0.6,0.25,224.32
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,2090,721,Bayheap Farm,600,Canada,6542,Caitlin Ricco,106,Jack Unger,5,15,7,0.666666667,0.285714286,41.8
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,43497,281,Rhymbo Farm,600,Canada,9305,Dewey Vause,106,Jack Unger,5,30,18,0.833333333,0.722222222,5654.61
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,95917,556,Diablo Farm,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,5,30,19,0.833333333,0.736842105,13428.38
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,165133,380,Rackatoe Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,20,13,0.8,0.692307692,14861.97
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,46746,529,Numero Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,6,15,11,0.6,0.454545455,2337.3
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,110284,965,Dickey Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,20,11,0.8,0.636363636,7719.88
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,69211,691,State Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,4,20,10,0.8,0.6,4152.66
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,64876,692,Livingston Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,25,23,0.8,0.782608696,11677.68
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,84062,657,Bob Smith Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,15,8,0.666666667,0.375,2521.86
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,27672,721,Bayheap Farm,600,Canada,5259,Deetta Rigby,106,Jack Unger,4,20,17,0.8,0.764705882,3597.36
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,97114,556,Diablo Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,30,17,0.833333333,0.705882353,11653.68
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,49019,292,Undertow Farm,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,6,15,15,0.6,0.6,4411.71
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,14939,931,Rick Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,20,9,0.8,0.555555556,746.95
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,158795,556,Diablo Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,6,15,9,0.6,0.333333333,4763.85
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,140812,604,Huntersville Farm,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,4,20,14,0.8,0.714285714,14081.2
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,36006,358,Rabbit Nursery,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,25,11,0.8,0.545454545,2160.36
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,42474,201,Bellview County Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,35,10,0.885714286,0.6,2548.44
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,199660,760,Moorse Nursery,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,25,13,0.84,0.692307692,17969.4
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,154376,739,University Village Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,30,17,0.833333333,0.705882353,18525.12
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,7377,691,State Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,4,20,14,0.8,0.714285714,737.7
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,162878,229,Horseridge Nursery,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,6,15,12,0.6,0.5,9772.68
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,100557,232,Greenster Nursery,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,15,40,25,0.625,0.4,10055.7
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,20224,868,Old Quarry Farm,600,Canada,1132,Asley Huges,106,Jack Unger,6,15,11,0.6,0.454545455,1011.2
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,24433,326,Makinaw Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,6,15,10,0.6,0.4,977.32
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,96002,670,Yute Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,32,11,0.84375,0.545454545,5760.12
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,45655,350,Celtic Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,4,20,15,0.8,0.733333333,5022.05
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,49018,292,Undertow Farm,500,Southwest,1462,Roland Zapien,105,Bill Barkely,4,25,22,0.84,0.818181818,8823.24
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,125488,350,Celtic Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,35,23,0.885714286,0.826086957,23842.72
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,3443,321,Open View Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,5,15,13,0.666666667,0.615384615,275.44
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,122407,762,Bridgeway Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,8,0.84,0.5,4896.28
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,145542,610,Lake Orey Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,20,9,0.8,0.555555556,7277.1
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,101875,762,Bridgeway Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,15,12,0.666666667,0.583333333,7131.25
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,151044,281,Rhymbo Farm,600,Canada,2295,Hildegard Buzard,106,Jack Unger,4,35,23,0.885714286,0.826086957,28698.36
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,111631,965,Dickey Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,35,27,0.885714286,0.851851852,25675.13
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,80163,670,Yute Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,15,40,23,0.625,0.347826087,6413.04
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,99597,232,Greenster Nursery,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,6,15,11,0.6,0.454545455,4979.85
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,127530,807,Green Canal Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,30,17,0.833333333,0.705882353,15303.6
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,2181,358,Rabbit Nursery,100,Northeast,9717,Silva Gouge,101,Tim Morris,5,15,9,0.666666667,0.444444444,87.24
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,23661,931,Rick Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,5,15,10,0.666666667,0.5,1183.05
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,89142,326,Makinaw Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,35,7,0.885714286,0.428571429,2674.26
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,48073,807,Green Canal Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,25,9,0.84,0.555555556,2403.65
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,118258,760,Moorse Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,30,26,0.833333333,0.807692308,24834.18
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,174874,868,Old Quarry Farm,600,Canada,1132,Asley Huges,106,Jack Unger,4,25,15,0.84,0.733333333,19236.14
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,91143,811,Zanzabarr Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,25,22,0.84,0.818181818,16405.74
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,86088,178,Lackey Farm,100,Northeast,1581,Luz German,101,Tim Morris,4,20,17,0.8,0.764705882,11191.44
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,99482,670,Yute Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,20,15,0.8,0.733333333,10943.02
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,67916,122,Bigtown Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,30,10,0.833333333,0.5,3395.8
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,46161,604,Huntersville Farm,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,6,15,15,0.6,0.6,4154.49
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,156846,585,Catte Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,25,7,0.84,0.428571429,4705.38
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,26035,232,Greenster Nursery,500,Southwest,4827,Norbert Parise,105,Bill Barkely,6,15,12,0.6,0.5,1562.1
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,92483,700,Jumbo Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,20,14,0.8,0.714285714,9248.3
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,74929,604,Huntersville Farm,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,25,23,0.84,0.826086957,14236.51
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,168857,997,Bridge Nursery,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,25,18,0.84,0.777777778,23639.98
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,195501,811,Zanzabarr Nursery,500,Southwest,1462,Roland Zapien,105,Bill Barkely,4,25,15,0.84,0.733333333,21505.11
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,39916,642,Sky Greenhouse,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,25,19,0.84,0.789473684,5987.4
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,129339,760,Moorse Nursery,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,20,12,0.8,0.666666667,10347.12
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,119319,980,Pasture Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,5,25,12,0.8,0.583333333,8352.33
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,67780,762,Bridgeway Greenhouse,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,35,22,0.885714286,0.818181818,12200.4
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,131083,721,Bayheap Farm,600,Canada,3617,Lori Latham,106,Jack Unger,4,25,15,0.84,0.733333333,14419.13
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,190245,868,Old Quarry Farm,600,Canada,1132,Asley Huges,106,Jack Unger,4,20,12,0.8,0.666666667,15219.6
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,92730,201,Bellview County Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,32,7,0.84375,0.285714286,1854.6
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,99421,585,Catte Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,5,15,11,0.666666667,0.545454545,5965.26
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,140683,238,Force Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,6,15,10,0.6,0.4,5627.32
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,186496,358,Rabbit Nursery,100,Northeast,9717,Silva Gouge,101,Tim Morris,15,40,38,0.625,0.605263158,42894.08
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,178241,780,Greeno Greenhouse,500,Southwest,7975,Kasey Angert,105,Bill Barkely,4,35,11,0.885714286,0.636363636,12476.87
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,99831,721,Bayheap Farm,600,Canada,9625,Marielle Plaisance,106,Jack Unger,4,20,18,0.8,0.777777778,13976.34
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,99726,980,Pasture Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,25,14,0.8,0.642857143,8975.34
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,70341,290,Sampson Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,6,15,15,0.6,0.6,6330.69
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,188931,122,Bigtown Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,20,7,0.8,0.428571429,5667.93
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,193107,178,Lackey Farm,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,4,20,11,0.8,0.636363636,13517.49
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,21725,232,Greenster Nursery,500,Southwest,2468,Iva Paolini,105,Bill Barkely,4,20,8,0.8,0.5,869
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,140152,821,Pickwick Farm,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,4,25,10,0.84,0.6,8409.12
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,112579,644,Greenbean Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,15,12,0.666666667,0.583333333,7880.53
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,141929,739,University Village Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,11,0.84,0.636363636,9935.03
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,20770,321,Open View Nursery,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,15,9,0.666666667,0.444444444,830.8
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,19477,807,Green Canal Greenhouse,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,35,32,0.885714286,0.875,5453.56
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,36058,585,Catte Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,32,25,0.84375,0.8,7211.6
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,169352,670,Yute Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,30,10,0.833333333,0.5,8467.6
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,126199,292,Undertow Farm,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,5,15,8,0.666666667,0.375,3785.97
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,191972,821,Pickwick Farm,100,Northeast,9717,Silva Gouge,101,Tim Morris,5,32,31,0.84375,0.838709677,49912.72
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,135677,610,Lake Orey Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,5,25,13,0.8,0.615384615,10854.16
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,47120,321,Open View Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,25,12,0.84,0.666666667,3769.6
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,190755,868,Old Quarry Farm,600,Canada,8731,Magdalen Murphy,106,Jack Unger,4,25,18,0.84,0.777777778,26705.7
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,165992,811,Zanzabarr Nursery,500,Southwest,7975,Kasey Angert,105,Bill Barkely,5,25,15,0.8,0.666666667,16599.2
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,73185,326,Makinaw Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,5,30,12,0.833333333,0.583333333,5122.95
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,89860,606,ABC Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,16,0.84,0.75,10783.2
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,168913,880,Green Story Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,15,10,0.666666667,0.5,8445.65
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,25279,606,ABC Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,6,15,11,0.6,0.454545455,1263.95
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,110284,955,Daily Dill Greenhouse,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,6,15,15,0.6,0.6,9925.56
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,83892,997,Bridge Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,20,14,0.8,0.714285714,8389.2
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,30261,201,Bellview County Nursery,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,20,7,0.8,0.428571429,907.83
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,117502,721,Bayheap Farm,600,Canada,9625,Marielle Plaisance,106,Jack Unger,6,15,9,0.6,0.333333333,3525.06
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,58009,880,Green Story Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,20,13,0.8,0.692307692,5220.81
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,87914,842,Overview Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,15,40,27,0.625,0.444444444,10549.68
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,118470,670,Yute Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,25,13,0.84,0.692307692,10662.3
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,11491,965,Dickey Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,20,12,0.8,0.666666667,919.28
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,17201,965,Dickey Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,30,12,0.833333333,0.583333333,1204.07
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,67639,721,Bayheap Farm,600,Canada,9625,Marielle Plaisance,106,Jack Unger,4,25,13,0.84,0.692307692,6087.51
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,39878,292,Undertow Farm,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,4,25,19,0.84,0.789473684,5981.7
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,140569,980,Pasture Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,25,23,0.84,0.826086957,26708.11
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,147634,739,University Village Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,20,7,0.8,0.428571429,4429.02
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,149708,931,Rick Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,5,15,9,0.666666667,0.444444444,5988.32
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,180614,232,Greenster Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,5,25,18,0.8,0.722222222,23479.82
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,117263,644,Greenbean Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,6,15,13,0.6,0.538461538,8208.41
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,59087,721,Bayheap Farm,600,Canada,9625,Marielle Plaisance,106,Jack Unger,4,25,24,0.84,0.833333333,11817.4
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,81141,707,Rancho Farm,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,25,14,0.84,0.714285714,8114.1
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,151359,931,Rick Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,20,13,0.8,0.692307692,13622.31
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,112204,880,Green Story Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,30,30,0.833333333,0.833333333,28051
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,148925,760,Moorse Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,20,11,0.8,0.636363636,10424.75
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,98039,931,Rick Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,18,0.8,0.777777778,13725.46
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,46051,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,18,0.8,0.777777778,6447.14
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,84101,281,Rhymbo Farm,600,Canada,3646,Marcie Aumann,106,Jack Unger,5,30,21,0.833333333,0.761904762,13456.16
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,58931,707,Rancho Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,25,15,0.8,0.666666667,5893.1
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,173148,691,State Nursery,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,5,30,10,0.833333333,0.5,8657.4
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,35424,780,Greeno Greenhouse,500,Southwest,2468,Iva Paolini,105,Bill Barkely,5,25,14,0.8,0.642857143,3188.16
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,42527,692,Livingston Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,20,10,0.8,0.6,2551.62
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,12064,238,Force Farm,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,6,15,12,0.6,0.5,723.84
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,116349,556,Diablo Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,5,30,23,0.833333333,0.782608696,20942.82
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,92407,321,Open View Nursery,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,5,30,22,0.833333333,0.772727273,15709.19
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,35565,229,Horseridge Nursery,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,25,17,0.84,0.764705882,4623.45
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,138331,326,Makinaw Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,5,30,19,0.833333333,0.736842105,19366.34
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,7147,232,Greenster Nursery,500,Southwest,1462,Roland Zapien,105,Bill Barkely,4,25,10,0.84,0.6,428.82
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,89769,807,Green Canal Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,15,40,30,0.625,0.5,13465.35
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,66269,762,Bridgeway Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,11,0.84,0.636363636,4638.83
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,163846,644,Greenbean Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,25,11,0.84,0.636363636,11469.22
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,183673,326,Makinaw Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,20,10,0.8,0.6,11020.38
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,16202,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,9,0.8,0.555555556,810.1
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,147992,811,Zanzabarr Nursery,500,Southwest,4827,Norbert Parise,105,Bill Barkely,4,20,20,0.8,0.8,23678.72
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,117783,321,Open View Nursery,100,Northeast,1581,Luz German,101,Tim Morris,4,25,21,0.84,0.80952381,20023.11
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,52814,657,Bob Smith Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,25,10,0.84,0.6,3168.84
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,3898,610,Lake Orey Greenhouse,100,Northeast,5989,Marquis Ables,101,Tim Morris,5,25,8,0.8,0.375,116.94
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,6321,721,Bayheap Farm,600,Canada,2295,Hildegard Buzard,106,Jack Unger,4,25,19,0.84,0.789473684,948.15
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,127614,556,Diablo Farm,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,25,8,0.84,0.5,5104.56
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,114648,807,Green Canal Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,25,15,0.8,0.666666667,11464.8
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,125130,615,Kissinger Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,25,15,0.84,0.733333333,13764.3
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,123005,842,Overview Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,6,15,9,0.6,0.333333333,3690.15
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,90612,232,Greenster Nursery,500,Southwest,7975,Kasey Angert,105,Bill Barkely,5,15,13,0.666666667,0.615384615,7248.96
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,114735,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,32,23,0.84375,0.782608696,20652.3
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,7006,760,Moorse Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,15,7,0.666666667,0.285714286,140.12
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,124869,692,Livingston Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,20,6,0.8,0.333333333,2497.38
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,75460,556,Diablo Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,20,12,0.8,0.666666667,6036.8
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,56444,821,Pickwick Farm,100,Northeast,3684,Lorita Furst,101,Tim Morris,5,15,10,0.666666667,0.5,2822.2
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,117851,955,Daily Dill Greenhouse,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,5,25,9,0.8,0.444444444,4714.04
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,192723,868,Old Quarry Farm,600,Canada,9625,Marielle Plaisance,106,Jack Unger,4,20,14,0.8,0.714285714,19272.3
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,143918,692,Livingston Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,25,7,0.84,0.428571429,4317.54
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,181297,707,Rancho Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,13,0.84,0.692307692,16316.73
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,161274,657,Bob Smith Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,5,25,25,0.8,0.8,32254.8
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,14394,760,Moorse Nursery,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,6,15,8,0.6,0.25,287.88
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,756,707,Rancho Farm,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,25,16,0.84,0.75,90.72
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,26743,670,Yute Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,4,25,10,0.84,0.6,1604.58
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,130479,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,13,0.84,0.692307692,11743.11
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,86800,380,Rackatoe Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,6,15,9,0.6,0.333333333,2604
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,39879,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,6,15,12,0.6,0.5,2392.74
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,172807,762,Bridgeway Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,15,40,33,0.625,0.545454545,31105.26
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,105404,238,Force Farm,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,25,25,0.84,0.84,22134.84
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,157711,880,Green Story Farm,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,8,0.8,0.5,6308.44
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,10190,721,Bayheap Farm,600,Canada,3617,Lori Latham,106,Jack Unger,4,20,16,0.8,0.75,1222.8
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,56236,358,Rabbit Nursery,100,Northeast,5989,Marquis Ables,101,Tim Morris,5,15,7,0.666666667,0.285714286,1124.72
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,26281,321,Open View Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,15,40,36,0.625,0.583333333,5519.01
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,177491,290,Sampson Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,25,16,0.8,0.6875,19524.01
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,56049,642,Sky Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,15,10,0.666666667,0.5,2802.45
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,96674,931,Rick Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,6,15,10,0.6,0.4,3866.96
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,89139,955,Daily Dill Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,30,16,0.833333333,0.6875,9805.29
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,64826,642,Sky Greenhouse,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,20,19,0.8,0.789473684,9723.9
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,148180,760,Moorse Nursery,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,32,22,0.84375,0.772727273,25190.6
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,78369,350,Celtic Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,5,32,12,0.84375,0.583333333,5485.83
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,192306,692,Livingston Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,5,30,12,0.833333333,0.583333333,13461.42
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,138949,700,Jumbo Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,6,15,13,0.6,0.538461538,9726.43
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,165496,232,Greenster Nursery,500,Southwest,4382,Rosalinda Farver,105,Bill Barkely,6,15,9,0.6,0.333333333,4964.88
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,43287,721,Bayheap Farm,600,Canada,5259,Deetta Rigby,106,Jack Unger,4,25,20,0.84,0.8,6925.92
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,101780,529,Numero Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,35,22,0.885714286,0.818181818,18320.4
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,189904,321,Open View Nursery,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,35,25,0.885714286,0.84,39879.84
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,65949,880,Green Story Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,30,23,0.833333333,0.782608696,11870.82
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,127699,739,University Village Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,25,17,0.84,0.764705882,16600.87
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,55081,670,Yute Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,15,40,32,0.625,0.53125,9363.77
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,89175,234,Green Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,5,25,21,0.8,0.761904762,14268
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,177026,811,Zanzabarr Nursery,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,6,15,15,0.6,0.6,15932.34
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,115636,232,Greenster Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,5,30,29,0.833333333,0.827586207,27752.64
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,93782,610,Lake Orey Greenhouse,100,Northeast,9717,Silva Gouge,101,Tim Morris,6,15,11,0.6,0.454545455,4689.1
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,35511,229,Horseridge Nursery,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,15,40,19,0.625,0.210526316,1420.44
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,59394,606,ABC Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,20,16,0.8,0.75,7127.28
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,61756,955,Daily Dill Greenhouse,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,4,20,11,0.8,0.636363636,4322.92
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,25041,326,Makinaw Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,13,0.8,0.692307692,2253.69
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,84493,321,Open View Nursery,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,20,14,0.8,0.714285714,8449.3
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,35472,780,Greeno Greenhouse,500,Southwest,1462,Roland Zapien,105,Bill Barkely,15,40,29,0.625,0.482758621,4966.08
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,98360,380,Rackatoe Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,32,19,0.84375,0.736842105,13770.4
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,134842,556,Diablo Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,6,15,11,0.6,0.454545455,6742.1
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,194649,229,Horseridge Nursery,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,30,18,0.833333333,0.722222222,25304.37
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,18526,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,25,15,0.84,0.733333333,2037.86
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,43252,321,Open View Nursery,100,Northeast,5989,Marquis Ables,101,Tim Morris,5,30,29,0.833333333,0.827586207,10380.48
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,55604,642,Sky Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,9,0.8,0.555555556,2780.2
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,178433,700,Jumbo Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,20,20,0.8,0.8,28549.28
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,149774,529,Numero Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,25,19,0.84,0.789473684,22466.1
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,74566,821,Pickwick Farm,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,32,7,0.84375,0.285714286,1491.32
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,98482,326,Makinaw Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,25,21,0.8,0.761904762,15757.12
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,56110,880,Green Story Farm,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,20,17,0.8,0.764705882,7294.3
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,179388,326,Makinaw Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,35,21,0.885714286,0.80952381,30495.96
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,16243,604,Huntersville Farm,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,20,9,0.8,0.555555556,812.15
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,112242,201,Bellview County Nursery,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,25,19,0.84,0.789473684,16836.3
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,101800,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,20,6,0.8,0.333333333,2036
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,54706,811,Zanzabarr Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,25,17,0.84,0.764705882,7111.78
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,91424,780,Greeno Greenhouse,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,4,25,16,0.84,0.75,10970.88
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,16155,585,Catte Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,20,0.8,0.8,2584.8
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,57189,292,Undertow Farm,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,6,15,15,0.6,0.6,5147.01
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,160070,122,Bigtown Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,4,20,8,0.8,0.5,6402.8
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,59499,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,25,17,0.8,0.705882353,7139.88
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,106137,780,Greeno Greenhouse,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,4,20,6,0.8,0.333333333,2122.74
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,119784,931,Rick Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,35,8,0.885714286,0.5,4791.36
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,100472,931,Rick Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,30,26,0.833333333,0.807692308,21099.12
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,158855,129,Hare Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,5,30,16,0.833333333,0.6875,17474.05
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,23834,997,Bridge Nursery,100,Northeast,2586,Zada Dennis,101,Tim Morris,4,25,20,0.84,0.8,3813.44
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,157995,821,Pickwick Farm,100,Northeast,5479,Tania Dugan,101,Tim Morris,5,15,7,0.666666667,0.285714286,3159.9
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,197964,321,Open View Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,25,7,0.8,0.285714286,3959.28
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,8010,321,Open View Nursery,100,Northeast,2586,Zada Dennis,101,Tim Morris,5,30,17,0.833333333,0.705882353,961.2
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,43518,980,Pasture Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,19,0.8,0.789473684,6527.7
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,195973,178,Lackey Farm,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,20,17,0.8,0.764705882,25476.49
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,123032,955,Daily Dill Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,25,25,0.8,0.8,24606.4
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,56727,955,Daily Dill Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,15,40,39,0.625,0.615384615,13614.48
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,18074,606,ABC Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,25,11,0.84,0.636363636,1265.18
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,43535,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,32,20,0.84375,0.75,6530.25
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,60574,965,Dickey Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,20,20,0.8,0.8,9691.84
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,182665,122,Bigtown Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,25,10,0.84,0.6,10959.9
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,16377,606,ABC Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,6,15,11,0.6,0.454545455,818.85
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,18179,615,Kissinger Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,32,16,0.84375,0.6875,1999.69
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,49017,997,Bridge Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,30,19,0.833333333,0.736842105,6862.38
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,136089,807,Green Canal Greenhouse,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,5,15,13,0.666666667,0.615384615,10887.12
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,167399,129,Hare Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,6,15,12,0.6,0.5,10043.94
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,192592,178,Lackey Farm,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,30,7,0.833333333,0.285714286,3851.84
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,81348,657,Bob Smith Greenhouse,100,Northeast,5989,Marquis Ables,101,Tim Morris,6,15,14,0.6,0.571428571,6507.84
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,149837,707,Rancho Farm,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,15,40,20,0.625,0.25,7491.85
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,108502,556,Diablo Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,25,8,0.8,0.375,3255.06
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,57070,880,Green Story Farm,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,6,15,10,0.6,0.4,2282.8
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,141684,321,Open View Nursery,100,Northeast,5479,Tania Dugan,101,Tim Morris,4,25,22,0.84,0.818181818,25503.12
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,102276,229,Horseridge Nursery,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,15,40,21,0.625,0.285714286,6136.56
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,181336,615,Kissinger Greenhouse,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,5,30,15,0.833333333,0.666666667,18133.6
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,29902,811,Zanzabarr Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,25,11,0.84,0.636363636,2093.14
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,195566,290,Sampson Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,25,10,0.84,0.6,11733.96
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,26477,707,Rancho Farm,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,5,15,7,0.666666667,0.285714286,529.54
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,82799,292,Undertow Farm,500,Southwest,4827,Norbert Parise,105,Bill Barkely,5,32,17,0.84375,0.705882353,9935.88
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,37739,122,Bigtown Greenhouse,100,Northeast,2586,Zada Dennis,101,Tim Morris,5,32,11,0.84375,0.545454545,2264.34
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,90963,615,Kissinger Greenhouse,100,Northeast,5479,Tania Dugan,101,Tim Morris,5,25,25,0.8,0.8,18192.6
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,10619,670,Yute Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,4,20,7,0.8,0.428571429,318.57
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,110985,762,Bridgeway Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,25,10,0.8,0.5,5549.25
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,68783,238,Force Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,9,0.84,0.555555556,3439.15
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,127926,739,University Village Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,35,14,0.885714286,0.714285714,12792.6
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,55099,129,Hare Nursery,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,6,15,8,0.6,0.25,1101.98
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,74117,281,Rhymbo Farm,600,Canada,3646,Marcie Aumann,106,Jack Unger,5,30,25,0.833333333,0.8,14823.4
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,86278,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,11,0.8,0.636363636,6039.46
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,166690,980,Pasture Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,20,11,0.8,0.636363636,11668.3
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,103731,670,Yute Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,25,9,0.84,0.555555556,5186.55
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,29248,122,Bigtown Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,6,15,13,0.6,0.538461538,2047.36
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,37976,326,Makinaw Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,19,0.8,0.789473684,5696.4
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,40734,980,Pasture Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,30,22,0.833333333,0.772727273,6924.78
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,105725,229,Horseridge Nursery,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,25,22,0.8,0.772727273,17973.25
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,102528,326,Makinaw Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,5,30,20,0.833333333,0.75,15379.2
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,70467,529,Numero Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,6,15,11,0.6,0.454545455,3523.35
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,155427,292,Undertow Farm,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,4,25,11,0.84,0.636363636,10879.89
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,24079,321,Open View Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,20,7,0.8,0.428571429,722.37
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,188906,894,Miller Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,25,20,0.8,0.75,28335.9
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,147800,529,Numero Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,6,15,8,0.6,0.25,2956
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,35406,868,Old Quarry Farm,600,Canada,9305,Dewey Vause,106,Jack Unger,5,15,11,0.666666667,0.545454545,2124.36
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,183952,931,Rick Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,32,10,0.84375,0.5,9197.6
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,81380,739,University Village Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,6,15,15,0.6,0.6,7324.2
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,28061,707,Rancho Farm,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,20,12,0.8,0.666666667,2244.88
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,112770,657,Bob Smith Greenhouse,100,Northeast,2586,Zada Dennis,101,Tim Morris,5,30,24,0.833333333,0.791666667,21426.3
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,120299,807,Green Canal Greenhouse,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,5,25,14,0.8,0.642857143,10826.91
+Calibrachoa,Dynamo,Yellow,Unrooted,Calibrachoa Dynamo Yellow Unrooted#,60071,89289,760,Moorse Nursery,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,20,17,0.8,0.764705882,11607.57
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,102506,234,Green Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,35,8,0.885714286,0.5,4100.24
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,66368,321,Open View Nursery,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,25,20,0.84,0.8,10618.88
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,189666,842,Overview Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,35,26,0.885714286,0.846153846,41726.52
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,180591,178,Lackey Farm,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,25,7,0.84,0.428571429,5417.73
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,127300,358,Rabbit Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,30,8,0.833333333,0.375,3819
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,16821,229,Horseridge Nursery,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,15,7,0.666666667,0.285714286,336.42
+Petunia Vegetative,Pretty,Light Pink,Unrooted,Petunia Vegetative Pretty Light Pink Unrooted#,48220,26838,692,Livingston Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,20,17,0.8,0.764705882,3488.94
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,185290,178,Lackey Farm,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,6,15,10,0.6,0.4,7411.6
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,123178,842,Overview Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,6,15,13,0.6,0.538461538,8622.46
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,105712,234,Green Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,20,14,0.8,0.714285714,10571.2
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,13768,129,Hare Nursery,500,Southwest,7975,Kasey Angert,105,Bill Barkely,4,25,12,0.84,0.666666667,1101.44
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,62506,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,5,25,21,0.8,0.761904762,10000.96
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,91279,739,University Village Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,6,15,13,0.6,0.538461538,6389.53
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,10215,380,Rackatoe Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,25,7,0.8,0.285714286,204.3
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,190932,691,State Nursery,500,Southwest,1462,Roland Zapien,105,Bill Barkely,4,20,19,0.8,0.789473684,28639.8
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,49966,350,Celtic Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,35,8,0.885714286,0.5,1998.64
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,108588,931,Rick Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,35,27,0.885714286,0.851851852,24975.24
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,110643,201,Bellview County Nursery,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,20,18,0.8,0.777777778,15490.02
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,32635,350,Celtic Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,4,20,13,0.8,0.692307692,2937.15
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,160097,122,Bigtown Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,5,32,22,0.84375,0.772727273,27216.49
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,54350,201,Bellview County Nursery,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,5,30,12,0.833333333,0.583333333,3804.5
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,18836,610,Lake Orey Greenhouse,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,4,25,15,0.84,0.733333333,2071.96
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,88941,606,ABC Nursery,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,5,30,28,0.833333333,0.821428571,20456.43
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,30513,657,Bob Smith Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,25,18,0.8,0.722222222,3966.69
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,81367,780,Greeno Greenhouse,500,Southwest,7975,Kasey Angert,105,Bill Barkely,4,25,7,0.84,0.428571429,2441.01
+Petunia Vegetative,Novelty,Yellow Vein,Unrooted,Petunia Vegetative Novelty Yellow Vein Unrooted#,46191,29525,380,Rackatoe Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,35,18,0.885714286,0.777777778,4133.5
+Calibrachoa,Crazy,Red,Unrooted,Calibrachoa Crazy Red Unrooted#,88975,44540,642,Sky Greenhouse,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,25,25,0.84,0.84,9353.4
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,29740,615,Kissinger Greenhouse,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,20,10,0.8,0.6,1784.4
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,126050,232,Greenster Nursery,500,Southwest,1462,Roland Zapien,105,Bill Barkely,6,15,13,0.6,0.538461538,8823.5
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,122325,229,Horseridge Nursery,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,25,7,0.84,0.428571429,3669.75
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,126290,644,Greenbean Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,25,0.84,0.84,26520.9
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,57735,868,Old Quarry Farm,600,Canada,5259,Deetta Rigby,106,Jack Unger,5,30,7,0.833333333,0.285714286,1154.7
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,52482,604,Huntersville Farm,500,Southwest,7975,Kasey Angert,105,Bill Barkely,4,25,25,0.84,0.84,11021.22
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,72910,615,Kissinger Greenhouse,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,35,21,0.885714286,0.80952381,12394.7
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,150444,290,Sampson Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,15,15,0.666666667,0.666666667,15044.4
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,95958,955,Daily Dill Greenhouse,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,25,23,0.8,0.782608696,17272.44
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,15114,997,Bridge Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,30,8,0.833333333,0.375,453.42
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,110719,821,Pickwick Farm,100,Northeast,9717,Silva Gouge,101,Tim Morris,6,15,10,0.6,0.4,4428.76
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,108557,321,Open View Nursery,100,Northeast,5989,Marquis Ables,101,Tim Morris,5,30,25,0.833333333,0.8,21711.4
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,183690,610,Lake Orey Greenhouse,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,25,23,0.84,0.826086957,34901.1
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,192574,232,Greenster Nursery,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,5,15,9,0.666666667,0.444444444,7702.96
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,21041,238,Force Farm,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,25,22,0.84,0.818181818,3787.38
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,110749,238,Force Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,15,40,25,0.625,0.4,11074.9
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,190254,380,Rackatoe Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,20,7,0.8,0.428571429,5707.62
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,152073,700,Jumbo Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,35,32,0.885714286,0.875,42580.44
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,38999,842,Overview Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,25,17,0.84,0.764705882,5069.87
+Petunia Vegetative,Pretty,Red,Unrooted,Petunia Vegetative Pretty Red Unrooted#,62436,19715,380,Rackatoe Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,20,11,0.8,0.636363636,1380.05
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,76238,358,Rabbit Nursery,100,Northeast,1581,Luz German,101,Tim Morris,4,25,23,0.84,0.826086957,14485.22
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,100229,321,Open View Nursery,100,Northeast,1581,Luz German,101,Tim Morris,6,15,15,0.6,0.6,9020.61
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,20624,529,Numero Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,5,15,10,0.666666667,0.5,1031.2
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,35525,670,Yute Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,4,25,7,0.84,0.428571429,1065.75
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,22991,234,Green Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,18,0.84,0.777777778,3218.74
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,157802,321,Open View Nursery,100,Northeast,5989,Marquis Ables,101,Tim Morris,5,32,18,0.84375,0.722222222,20514.26
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,184252,762,Bridgeway Greenhouse,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,5,30,18,0.833333333,0.722222222,23952.76
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,164405,122,Bigtown Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,4,25,22,0.84,0.818181818,29592.9
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,51052,326,Makinaw Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,25,10,0.8,0.5,2552.6
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,63784,321,Open View Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,6,15,9,0.6,0.333333333,1913.52
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,65845,234,Green Farm,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,25,21,0.84,0.80952381,11193.65
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,89365,290,Sampson Nursery,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,4,25,21,0.84,0.80952381,15192.05
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,166584,721,Bayheap Farm,600,Canada,3617,Lori Latham,106,Jack Unger,5,25,13,0.8,0.615384615,13326.72
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,189341,292,Undertow Farm,500,Southwest,7975,Kasey Angert,105,Bill Barkely,6,15,8,0.6,0.25,3786.82
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,79138,201,Bellview County Nursery,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,25,13,0.84,0.692307692,7122.42
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,113129,321,Open View Nursery,100,Northeast,3684,Lorita Furst,101,Tim Morris,6,15,15,0.6,0.6,10181.61
+Geranium,Geronimo,Deep Red,Unrooted,Geranium Geronimo Deep Red Unrooted#,37449,25365,380,Rackatoe Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,5,25,10,0.8,0.5,1268.25
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,85653,122,Bigtown Greenhouse,100,Northeast,2586,Zada Dennis,101,Tim Morris,4,25,20,0.84,0.8,13704.48
+Petunia Vegetative,Peddler,Light Blue,Unrooted,Petunia Vegetative Peddler Light Blue Unrooted#,75176,110163,380,Rackatoe Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,4,25,18,0.84,0.777777778,15422.82
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,48884,868,Old Quarry Farm,600,Canada,8731,Magdalen Murphy,106,Jack Unger,5,30,27,0.833333333,0.814814815,10754.48
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,5102,292,Undertow Farm,500,Southwest,1573,Julie Claar,105,Bill Barkely,4,25,21,0.84,0.80952381,867.34
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,106105,129,Hare Nursery,500,Southwest,4317,Lavonia Grunwald,105,Bill Barkely,5,25,24,0.8,0.791666667,20159.95
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,96686,842,Overview Greenhouse,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,5,15,7,0.666666667,0.285714286,1933.72
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,58384,292,Undertow Farm,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,6,15,8,0.6,0.25,1167.68
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,90980,178,Lackey Farm,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,5,30,8,0.833333333,0.375,2729.4
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,124963,290,Sampson Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,6,15,13,0.6,0.538461538,8747.41
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,66091,997,Bridge Nursery,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,25,17,0.84,0.764705882,8591.83
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,131798,615,Kissinger Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,20,7,0.8,0.428571429,3953.94
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,105565,842,Overview Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,5,30,21,0.833333333,0.761904762,16890.4
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,164877,604,Huntersville Farm,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,25,24,0.84,0.833333333,32975.4
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,122933,350,Celtic Greenhouse,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,20,19,0.8,0.789473684,18439.95
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,109774,238,Force Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,30,8,0.833333333,0.375,3293.22
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,128791,178,Lackey Farm,100,Northeast,5479,Tania Dugan,101,Tim Morris,15,40,24,0.625,0.375,11591.19
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,138727,556,Diablo Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,25,8,0.84,0.5,5549.08
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,149352,556,Diablo Farm,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,4,25,10,0.84,0.6,8961.12
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,83293,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,25,6,0.84,0.333333333,1665.86
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,97267,129,Hare Nursery,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,5,32,18,0.84375,0.722222222,12644.71
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,147812,232,Greenster Nursery,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,6,15,14,0.6,0.571428571,11824.96
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,43784,234,Green Farm,300,Great Lakes,9639,Johnathon Cephus,103,Sandra Carlton,15,40,30,0.625,0.5,6567.6
+Calibrachoa,Dynamo,Light Pink,Unrooted,Calibrachoa Dynamo Light Pink Unrooted#,71344,92701,606,ABC Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,20,9,0.8,0.555555556,4635.05
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,107219,739,University Village Nursery,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,25,12,0.84,0.666666667,8577.52
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,67157,234,Green Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,25,11,0.8,0.545454545,4029.42
+Calibrachoa,Dynamo,Blue,Unrooted,Calibrachoa Dynamo Blue Unrooted#,49920,78158,931,Rick Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,20,13,0.8,0.692307692,7034.22
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,1693,880,Green Story Farm,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,5,25,15,0.8,0.666666667,169.3
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,195263,700,Jumbo Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,30,11,0.833333333,0.545454545,11715.78
+Petunia Vegetative,Novelty,Sky,Unrooted,Petunia Vegetative Novelty Sky Unrooted#,35976,192432,700,Jumbo Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,4,35,9,0.885714286,0.555555556,9621.6
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,48391,178,Lackey Farm,100,Northeast,5989,Marquis Ables,101,Tim Morris,4,25,25,0.84,0.84,10162.11
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,51334,721,Bayheap Farm,600,Canada,2295,Hildegard Buzard,106,Jack Unger,15,40,25,0.625,0.4,5133.4
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,143298,691,State Nursery,500,Southwest,8166,Shemika Lurie,105,Bill Barkely,5,32,18,0.84375,0.722222222,18628.74
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,155904,585,Catte Greenhouse,200,Southeast,9969,Tony Mart,102,Pete Jorgensen,4,20,6,0.8,0.333333333,3118.08
+New Guinea Impatiens,Solomon,Burgundy,Unrooted,New Guinea Impatiens Solomon Burgundy Unrooted#,99954,165520,238,Force Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,6,15,13,0.6,0.538461538,11586.4
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,73608,358,Rabbit Nursery,100,Northeast,1581,Luz German,101,Tim Morris,4,35,7,0.885714286,0.428571429,2208.24
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,194368,610,Lake Orey Greenhouse,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,5,30,25,0.833333333,0.8,38873.6
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,35316,358,Rabbit Nursery,100,Northeast,5479,Tania Dugan,101,Tim Morris,6,15,14,0.6,0.571428571,2825.28
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,129216,739,University Village Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,20,0.84,0.8,20674.56
+Petunia Vegetative,Super,Pink,Unrooted,Petunia Vegetative Super Pink Unrooted#,52492,4491,931,Rick Greenhouse,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,25,10,0.84,0.6,269.46
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,95349,281,Rhymbo Farm,600,Canada,8731,Magdalen Murphy,106,Jack Unger,4,20,13,0.8,0.692307692,8581.41
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,155282,358,Rabbit Nursery,100,Northeast,4214,Francie Hawthorne,101,Tim Morris,5,30,7,0.833333333,0.285714286,3105.64
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,174184,894,Miller Farm,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,13,0.8,0.692307692,15676.56
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,160714,556,Diablo Farm,300,Great Lakes,2272,Willie Mayorga,103,Sandra Carlton,5,30,21,0.833333333,0.761904762,25714.24
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,63241,868,Old Quarry Farm,600,Canada,1132,Asley Huges,106,Jack Unger,5,15,9,0.666666667,0.444444444,2529.64
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,166726,321,Open View Nursery,100,Northeast,1581,Luz German,101,Tim Morris,4,25,18,0.84,0.777777778,23341.64
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,49989,644,Greenbean Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,6,15,14,0.6,0.571428571,3999.12
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,184318,739,University Village Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,6,15,10,0.6,0.4,7372.72
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,103704,358,Rabbit Nursery,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,5,30,20,0.833333333,0.75,15555.6
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,73798,997,Bridge Nursery,100,Northeast,1581,Luz German,101,Tim Morris,5,30,28,0.833333333,0.821428571,16973.54
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,145261,292,Undertow Farm,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,5,30,11,0.833333333,0.545454545,8715.66
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,188141,821,Pickwick Farm,100,Northeast,1581,Luz German,101,Tim Morris,4,25,17,0.84,0.764705882,24458.33
+New Guinea Impatiens,Solomon,Big Red,Unrooted,New Guinea Impatiens Solomon Big Red Unrooted#,52459,128258,670,Yute Greenhouse,400,Northwest,4492,Bret Komar,104,Cathie Wentz,6,15,14,0.6,0.571428571,10260.64
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,32815,760,Moorse Nursery,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,4,20,10,0.8,0.6,1968.9
+Coleus,Zero,Mango,Unrooted,Coleus Zero Mango Unrooted#,34079,70390,965,Dickey Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,5,30,12,0.833333333,0.583333333,4927.3
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,38282,178,Lackey Farm,100,Northeast,1581,Luz German,101,Tim Morris,5,30,9,0.833333333,0.444444444,1531.28
+Coleus,Magnus,Deep Red,Unrooted,Coleus Magnus Deep Red Unrooted#,16918,16379,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,32,9,0.84375,0.444444444,655.16
+Geranium,Geronimo,Frost,Unrooted,Geranium Geronimo Frost Unrooted#,38461,39602,380,Rackatoe Greenhouse,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,25,14,0.8,0.642857143,3564.18
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,48812,842,Overview Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,35,20,0.885714286,0.8,7809.92
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,175242,292,Undertow Farm,500,Southwest,1573,Julie Claar,105,Bill Barkely,15,40,37,0.625,0.594594595,38553.24
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,13702,229,Horseridge Nursery,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,20,9,0.8,0.555555556,685.1
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,78867,955,Daily Dill Greenhouse,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,18,0.8,0.777777778,11041.38
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,180082,529,Numero Greenhouse,400,Northwest,8404,Larita Garnett,104,Cathie Wentz,6,15,8,0.6,0.25,3601.64
+New Guinea Impatiens,Solomon,Red,Unrooted,New Guinea Impatiens Solomon Red Unrooted#,77686,62535,644,Greenbean Farm,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,6,15,10,0.6,0.4,2501.4
+New Guinea Impatiens,Solomon,Yellow,Unrooted,New Guinea Impatiens Solomon Yellow Unrooted#,61037,125618,868,Old Quarry Farm,600,Canada,2295,Hildegard Buzard,106,Jack Unger,6,15,11,0.6,0.454545455,6280.9
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,55082,700,Jumbo Nursery,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,4,25,19,0.84,0.789473684,8262.3
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,103011,234,Green Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,15,14,0.666666667,0.642857143,9270.99
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,22670,780,Greeno Greenhouse,500,Southwest,9177,Arletha Grauer,105,Bill Barkely,4,25,17,0.84,0.764705882,2947.1
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,73088,644,Greenbean Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,30,20,0.833333333,0.75,10963.2
+Calibrachoa,Crazy,Orange,Unrooted,Calibrachoa Crazy Orange Unrooted#,64003,129661,657,Bob Smith Greenhouse,100,Northeast,1581,Luz German,101,Tim Morris,4,25,6,0.84,0.333333333,2593.22
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,76088,721,Bayheap Farm,600,Canada,3646,Marcie Aumann,106,Jack Unger,4,20,6,0.8,0.333333333,1521.76
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,76363,739,University Village Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,15,11,0.666666667,0.545454545,4581.78
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,69082,997,Bridge Nursery,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,25,25,0.8,0.8,13816.4
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,31444,842,Overview Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,30,14,0.833333333,0.642857143,2829.96
+Geranium,Giant,Deep Red,Unrooted,Geranium Giant Deep Red Unrooted#,91126,69218,232,Greenster Nursery,500,Southwest,1462,Roland Zapien,105,Bill Barkely,5,30,17,0.833333333,0.705882353,8306.16
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,177751,955,Daily Dill Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,30,20,0.833333333,0.75,26662.65
+Calibrachoa,Crazy,Deep Red,Unrooted,Calibrachoa Crazy Deep Red Unrooted#,50994,157787,232,Greenster Nursery,500,Southwest,7975,Kasey Angert,105,Bill Barkely,4,25,23,0.84,0.826086957,29979.53
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,49307,657,Bob Smith Greenhouse,100,Northeast,5951,Abel Gillmore,101,Tim Morris,5,30,9,0.833333333,0.444444444,1972.28
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,42796,229,Horseridge Nursery,200,Southeast,6144,Gerald Wake,102,Pete Jorgensen,4,20,20,0.8,0.8,6847.36
+Geranium,Geronimo,Pink,Unrooted,Geranium Geronimo Pink Unrooted#,53908,145855,955,Daily Dill Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,25,25,0.8,0.8,29171
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,155740,821,Pickwick Farm,100,Northeast,3684,Lorita Furst,101,Tim Morris,5,30,29,0.833333333,0.827586207,37377.6
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,150600,997,Bridge Nursery,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,5,32,22,0.84375,0.772727273,25602
+Coleus,Zero,Bright Flame,Unrooted,Coleus Zero Bright Flame Unrooted#,12393,104727,880,Green Story Farm,200,Southeast,7872,Janette Darbonne,102,Pete Jorgensen,5,30,26,0.833333333,0.807692308,21992.67
+Coleus,Zero,Fire,Unrooted,Coleus Zero Fire Unrooted#,57403,44872,290,Sampson Nursery,300,Great Lakes,1456,Dodie Birdsong,103,Sandra Carlton,5,30,24,0.833333333,0.791666667,8525.68
+Petunia Vegetative,Novelty,Pink Star,Unrooted,Petunia Vegetative Novelty Pink Star Unrooted#,58462,100219,615,Kissinger Greenhouse,100,Northeast,9717,Silva Gouge,101,Tim Morris,4,35,10,0.885714286,0.6,6013.14
+Geranium,Giant,Frost,Unrooted,Geranium Giant Frost Unrooted#,43299,106828,670,Yute Greenhouse,400,Northwest,9547,Anisa Paneto,104,Cathie Wentz,5,30,24,0.833333333,0.791666667,20297.32
+Petunia Vegetative,Pretty,Yellow,Unrooted,Petunia Vegetative Pretty Yellow Unrooted#,94050,42663,122,Bigtown Greenhouse,100,Northeast,7295,Jeffrey Broadfoot,101,Tim Morris,4,20,15,0.8,0.733333333,4692.93
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,32378,880,Green Story Farm,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,20,7,0.8,0.428571429,971.34
+Geranium,Geronimo,Orange,Unrooted,Geranium Geronimo Orange Unrooted#,20057,121008,894,Miller Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,25,22,0.8,0.772727273,20571.36
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,135392,955,Daily Dill Greenhouse,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,15,40,32,0.625,0.53125,23016.64
+Combo,Basket,Red Yellow Mix,Unrooted,Combo Basket Red Yellow Mix Unrooted#,75237,116692,931,Rick Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,15,40,23,0.625,0.347826087,9335.36
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,175329,290,Sampson Nursery,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,30,21,0.833333333,0.761904762,28052.64
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,161219,762,Bridgeway Greenhouse,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,5,32,13,0.84375,0.615384615,12897.52
+Geranium,Giant,Pink,Unrooted,Geranium Giant Pink Unrooted#,60468,128614,955,Daily Dill Greenhouse,300,Great Lakes,7144,Nelda Heckel,103,Sandra Carlton,5,30,15,0.833333333,0.666666667,12861.4
+Calibrachoa,Crazy,Pink,Unrooted,Calibrachoa Crazy Pink Unrooted#,46673,104555,321,Open View Nursery,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,4,25,7,0.84,0.428571429,3136.65
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,163774,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,4,20,11,0.8,0.636363636,11464.18
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,88143,380,Rackatoe Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,5,15,8,0.666666667,0.375,2644.29
+Angelonia,Angel,Purple,Unrooted,Angelonia Angel Purple Unrooted#,84737,49109,178,Lackey Farm,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,5,15,7,0.666666667,0.285714286,982.18
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,195450,232,Greenster Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,20,20,0.8,0.8,31272
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,178774,292,Undertow Farm,500,Southwest,1573,Julie Claar,105,Bill Barkely,4,20,9,0.8,0.555555556,8938.7
+Petunia Vegetative,Pretty,Blue,Unrooted,Petunia Vegetative Pretty Blue Unrooted#,71461,107073,931,Rick Greenhouse,200,Southeast,7734,Ethan Couvillion,102,Pete Jorgensen,4,20,13,0.8,0.692307692,9636.57
+Coleus,Magnus,Red,Unrooted,Coleus Magnus Red Unrooted#,29389,52181,997,Bridge Nursery,100,Northeast,4887,Anastacia Renaud,101,Tim Morris,5,32,14,0.84375,0.642857143,4696.29
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,195014,868,Old Quarry Farm,600,Canada,6542,Caitlin Ricco,106,Jack Unger,5,15,7,0.666666667,0.285714286,3900.28
+Geranium,Giant,Orange,Unrooted,Geranium Giant Orange Unrooted#,26762,55112,670,Yute Greenhouse,400,Northwest,9565,Iola Guss,104,Cathie Wentz,5,30,26,0.833333333,0.807692308,11573.52
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,83124,238,Force Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,4,25,15,0.84,0.733333333,9143.64
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,126393,692,Livingston Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,15,40,22,0.625,0.318181818,8847.51
+Calibrachoa,Crazy,Yellow,Unrooted,Calibrachoa Crazy Yellow Unrooted#,91061,74992,234,Green Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,4,25,24,0.84,0.833333333,14998.4
+Petunia Vegetative,Peddler,Red,Unrooted,Petunia Vegetative Peddler Red Unrooted#,27225,32808,281,Rhymbo Farm,600,Canada,2295,Hildegard Buzard,106,Jack Unger,4,25,6,0.84,0.333333333,656.16
+Petunia Vegetative,Peddler,Yellow,Unrooted,Petunia Vegetative Peddler Yellow Unrooted#,12632,189513,965,Dickey Greenhouse,400,Northwest,7862,Gregoria Paull,104,Cathie Wentz,4,25,14,0.84,0.714285714,18951.3
+Petunia Vegetative,Pretty,Deep Blue,Unrooted,Petunia Vegetative Pretty Deep Blue Unrooted#,14595,46646,657,Bob Smith Greenhouse,100,Northeast,8665,Chantay Shepherd,101,Tim Morris,4,20,16,0.8,0.75,5597.52
+Petunia Vegetative,Super,Yellow,Unrooted,Petunia Vegetative Super Yellow Unrooted#,25618,47041,281,Rhymbo Farm,600,Canada,8731,Magdalen Murphy,106,Jack Unger,4,25,25,0.84,0.84,9878.61
+Calibrachoa,Dynamo,Pink,Unrooted,Calibrachoa Dynamo Pink Unrooted#,30130,40424,229,Horseridge Nursery,200,Southeast,5301,Janiece Mcshane,102,Pete Jorgensen,4,20,13,0.8,0.692307692,3638.16
+Combo,Basket,Blue Red Mix,Unrooted,Combo Basket Blue Red Mix Unrooted#,26687,148853,290,Sampson Nursery,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,15,40,22,0.625,0.318181818,10419.71
+New Guinea Impatiens,Solomon,Pink,Unrooted,New Guinea Impatiens Solomon Pink Unrooted#,66263,151965,585,Catte Greenhouse,200,Southeast,2955,Dean Ferraro,102,Pete Jorgensen,6,15,10,0.6,0.4,6078.6
+Angelonia,Angel,Red,Unrooted,Angelonia Angel Red Unrooted#,63122,53585,811,Zanzabarr Nursery,500,Southwest,2627,Kyoko Setton,105,Bill Barkely,5,15,7,0.666666667,0.285714286,1071.7
+Petunia Vegetative,Peddler,Pink,Unrooted,Petunia Vegetative Peddler Pink Unrooted#,12871,6863,238,Force Farm,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,25,20,0.84,0.8,1098.08
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,95612,321,Open View Nursery,100,Northeast,3684,Lorita Furst,101,Tim Morris,4,20,18,0.8,0.777777778,13385.68
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,53034,290,Sampson Nursery,300,Great Lakes,1203,Ying Mercier,103,Sandra Carlton,5,15,15,0.666666667,0.666666667,5303.4
+Petunia Vegetative,Super,Red,Unrooted,Petunia Vegetative Super Red Unrooted#,56026,193292,129,Hare Nursery,500,Southwest,3447,Teresa Newsom,105,Bill Barkely,4,25,25,0.84,0.84,40591.32
+Petunia Vegetative,Pretty,Pink,Unrooted,Petunia Vegetative Pretty Pink Unrooted#,90230,195586,955,Daily Dill Greenhouse,300,Great Lakes,6259,Shon Watterson,103,Sandra Carlton,4,20,19,0.8,0.789473684,29337.9
+New Guinea Impatiens,Solomon,Deep Red,Unrooted,New Guinea Impatiens Solomon Deep Red Unrooted#,31784,31895,644,Greenbean Farm,300,Great Lakes,6511,Columbus Transue,103,Sandra Carlton,6,15,9,0.6,0.333333333,956.85
+Calibrachoa,Dynamo,Red,Unrooted,Calibrachoa Dynamo Red Unrooted#,90465,48799,321,Open View Nursery,100,Northeast,2586,Zada Dennis,101,Tim Morris,4,20,13,0.8,0.692307692,4391.91
+Angelonia,Angel,White,Unrooted,Angelonia Angel White Unrooted#,43533,185292,238,Force Farm,300,Great Lakes,4926,Wilfred Mcelvain,103,Sandra Carlton,5,15,13,0.666666667,0.615384615,14823.36
